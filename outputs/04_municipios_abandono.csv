@@ -1,0 +1,136 @@
+﻿municipio_nombre,region_educativa,ultimo_2023_24,mediana_reciente,promedio_reciente,mediana_reciente_con_2020_21,ciclos_negativos,signo_ultimo,cambio_pp_extremos,cambio_pp_robusto
+25 de Mayo,Región 24,2.41,2.7,2.937,2.555,0,positivo,-3.89,-3.6
+9 de Julio,Región 15,5.32,4.5,4.54,4.15,0,positivo,-2.68,-3.5
+Adolfo Alsina,Región 23,2.09,2.7,2.697,2.395,2,positivo,6.19,6.8
+Adolfo Gonzales Chaves,Región 21,4.95,2.4,2.883,2.25,3,positivo,4.05,1.5
+Alberti,Región 15,4.56,4.3,3.653,3.2,2,positivo,-0.54,-0.8
+Almirante Brown,Región 5,2.95,3.1,3.283,3.025,1,positivo,-2.75,-2.6
+Arrecifes,Región 12,8.0,4.0,5.233,3.9,1,positivo,3.9,-0.1
+Avellaneda,Región 2,2.64,2.64,3.213,2.47,1,positivo,-2.66,-2.66
+Ayacucho,Región 18,4.91,4.91,3.137,4.155,1,positivo,0.11,0.11
+Azul,Región 25,1.32,2.1,2.607,1.71,2,positivo,-6.98,-6.2
+Bahía Blanca,Región 22,3.06,3.06,3.053,2.88,0,positivo,-0.74,-0.74
+Balcarce,Región 20,0.54,0.54,0.313,-0.13,3,positivo,-5.36,-5.36
+Baradero,Región 12,4.96,3.2,3.053,2.1,0,positivo,-0.34,-2.1
+Benito Juárez,Región 21,2.25,2.25,2.383,2.075,0,positivo,-2.75,-2.75
+Berazategui,Región 4,2.08,3.0,2.827,2.54,1,positivo,-4.02,-3.1
+Berisso,Región 1,5.62,1.4,2.673,1.2,0,positivo,2.22,-2.0
+Bolívar,Región 25,3.13,3.13,2.743,1.815,0,positivo,-1.57,-1.57
+Bragado,Región 15,4.91,2.2,2.737,1.65,0,positivo,-0.09,-2.8
+Brandsen,Región 1,0.88,2.4,2.16,1.64,0,positivo,-2.72,-1.2
+Campana,Región 11,2.54,1.5,1.613,1.65,0,positivo,-4.06,-5.1
+Capitán Sarmiento,Región 12,2.08,2.08,2.06,1.94,2,positivo,-2.72,-2.72
+Carlos Casares,Región 15,5.87,5.87,5.19,4.685,0,positivo,-0.83,-0.83
+Carlos Tejedor,Región 16,4.52,6.2,7.14,5.36,1,positivo,-3.78,-2.1
+Carmen de Areco,Región 13,3.55,3.55,3.417,2.675,0,positivo,-0.25,-0.25
+Castelli,Región 18,3.9,-0.8,0.167,-1.7,4,positivo,-2.8,-7.5
+Cañuelas,Región 10,4.09,1.5,1.963,1.7,0,positivo,-2.51,-5.1
+Chacabuco,Región 14,3.45,3.8,3.983,3.625,0,positivo,-3.75,-3.4
+Chascomús,Región 17,2.98,2.4,2.26,1.9,0,positivo,-0.32,-0.9
+Chivilcoy,Región 15,2.78,2.9,3.127,2.84,0,positivo,-2.12,-2.0
+Colón,Región 13,1.68,1.7,2.893,1.69,0,positivo,-4.82,-4.8
+Coronel Dorrego,Región 21,3.08,3.08,2.86,2.59,2,positivo,-2.72,-2.72
+Coronel Pringles,Región 21,1.78,1.78,1.993,1.64,1,positivo,-3.32,-3.32
+Coronel Suárez,Región 23,4.59,4.3,3.263,3.25,0,positivo,0.49,0.2
+Coronel de Marina Leonardo Rosales,Región 22,2.24,2.1,1.647,2.1,0,positivo,-1.86,-2.0
+Daireaux,Región 23,2.78,2.78,2.893,2.69,1,positivo,-1.62,-1.62
+Dolores,Región 18,3.87,1.0,1.723,1.2,0,positivo,0.47,-2.4
+Ensenada,Región 1,3.91,3.91,3.837,3.605,1,positivo,-4.69,-4.69
+Escobar,Región 11,1.72,2.1,2.707,1.91,0,positivo,-3.08,-2.7
+Esteban Echeverría,Región 5,3.16,3.16,3.253,3.13,0,positivo,-3.04,-3.04
+Exaltación de la Cruz,Región 11,2.23,2.6,2.61,2.415,0,positivo,-3.27,-2.9
+Ezeiza,Región 5,2.62,3.0,2.94,2.81,0,positivo,-2.88,-2.5
+Florencio Varela,Región 4,2.88,3.1,3.593,2.99,0,positivo,-2.42,-2.2
+Florentino Ameghino,Región 14,1.32,3.1,2.673,2.4,1,positivo,-1.68,0.1
+General Alvarado,Región 19,2.17,3.2,3.457,2.685,0,positivo,-4.13,-3.1
+General Alvear,Región 24,1.73,1.73,2.41,1.015,4,positivo,8.63,8.63
+General Arenales,Región 14,4.38,2.9,2.96,2.25,1,positivo,-1.72,-3.2
+General Belgrano,Región 17,2.78,2.78,2.927,2.19,1,positivo,-0.62,-0.62
+General Guido,Región 18,7.37,6.1,4.89,4.7,1,positivo,-1.03,-2.3
+General Juan Madariaga,Región 18,4.49,3.6,3.03,2.3,0,positivo,-2.51,-3.4
+General La Madrid,Región 23,1.48,1.8,1.793,1.8,1,positivo,-4.52,-4.2
+General Las Heras,Región 10,4.56,3.2,2.287,1.15,4,positivo,-0.44,-1.8
+General Lavalle,Región 18,0.61,2.6,2.803,2.4,3,positivo,-6.79,-4.8
+General Paz,Región 17,2.04,0.4,0.547,1.22,2,positivo,0.24,-1.4
+General Pinto,Región 14,1.74,3.2,2.813,2.47,2,positivo,-1.26,0.2
+General Pueyrredón,Región 19,2.98,3.0,3.127,2.99,0,positivo,-1.62,-1.6
+General Rodríguez,Región 10,4.7,1.8,2.533,1.45,0,positivo,-0.8,-3.7
+General San Martín,Región 7,3.56,3.3,2.72,2.3,0,positivo,-1.04,-1.3
+General Viamonte,Región 14,2.38,2.9,3.493,2.64,1,positivo,-6.22,-5.7
+General Villegas,Región 16,5.22,4.4,3.973,4.05,0,positivo,-1.48,-2.3
+Guaminí,Región 23,1.59,2.0,2.397,2.0,0,positivo,-3.71,-3.3
+Hipólito Yrigoyen,Región 15,6.26,6.26,6.587,5.68,0,positivo,-4.44,-4.44
+Hurlingham,Región 7,3.39,3.3,2.63,2.25,1,positivo,-0.71,-0.8
+Ituzaingó,Región 8,2.82,2.82,2.64,2.16,0,positivo,-4.28,-4.28
+José C. Paz,Región 9,3.66,3.9,4.12,3.78,0,positivo,-1.74,-1.5
+Junín,Región 14,3.23,3.23,3.543,2.865,0,positivo,-3.17,-3.17
+La Costa,Región 18,1.91,2.9,2.87,2.405,2,positivo,-2.19,-1.2
+La Matanza,Región 3,2.98,2.9,2.86,2.8,0,positivo,-2.52,-2.6
+La Plata,Región 1,3.42,2.8,3.007,2.8,0,positivo,-0.88,-1.5
+Lanús,Región 2,1.82,2.1,2.34,1.96,0,positivo,-2.18,-1.9
+Laprida,Región 21,4.62,4.7,5.607,6.1,0,positivo,-2.98,-2.9
+Las Flores,Región 24,5.06,4.5,4.387,4.05,0,positivo,0.26,-0.3
+Leandro N. Alem,Región 14,3.64,4.4,5.113,4.02,0,positivo,-5.36,-4.6
+Lezama,Región 17,-1.9,5.1,3.333,2.45,2,negativo,-5.1,1.9
+Lincoln,Región 14,2.58,2.9,3.56,2.74,0,positivo,-5.02,-4.7
+Lobería,Región 20,1.88,2.2,2.76,2.65,3,positivo,4.28,4.6
+Lobos,Región 24,4.4,4.4,5.133,4.25,1,positivo,1.2,1.2
+Lomas de Zamora,Región 2,2.48,2.7,2.627,2.59,0,positivo,-3.12,-2.9
+Luján,Región 10,1.9,1.9,2.433,1.55,1,positivo,-0.9,-0.9
+Magdalena,Región 1,2.94,2.94,5.08,2.62,1,positivo,-1.06,-1.06
+Maipú,Región 18,1.8,1.8,2.233,1.7,2,positivo,-2.5,-2.5
+Malvinas Argentinas,Región 9,1.86,2.9,2.987,2.38,0,positivo,-3.34,-2.3
+Mar Chiquita,Región 19,3.47,3.47,4.357,2.935,1,positivo,2.67,2.67
+Marcos Paz,Región 10,2.78,2.78,2.827,2.59,0,positivo,-4.32,-4.32
+Mercedes,Región 10,2.68,2.68,2.827,2.54,0,positivo,-2.62,-2.62
+Merlo,Región 8,3.8,3.4,3.267,3.0,0,positivo,-1.3,-1.7
+Monte,Región 17,1.98,1.98,1.493,1.14,2,positivo,-0.62,-0.62
+Monte Hermoso,Región 22,3.91,-0.6,0.337,0.45,6,positivo,4.41,-0.1
+Moreno,Región 9,2.85,3.6,3.617,3.225,0,positivo,-3.05,-2.3
+Morón,Región 8,3.02,2.7,2.773,2.65,0,positivo,-1.98,-2.3
+Navarro,Región 10,0.24,0.24,-1.22,0.27,2,positivo,-3.96,-3.96
+Necochea,Región 20,0.57,3.2,2.857,1.885,1,positivo,-3.53,-0.9
+Olavarría,Región 25,3.71,3.71,3.537,3.355,0,positivo,-2.19,-2.19
+Patagones,Región 22,1.75,1.75,1.95,1.075,2,positivo,-0.55,-0.55
+Pehuajó,Región 15,1.65,1.8,2.083,1.725,2,positivo,-1.25,-1.1
+Pellegrini,Región 16,8.89,6.0,4.63,2.5,3,positivo,5.89,3.0
+Pergamino,Región 13,4.23,3.9,3.743,3.5,1,positivo,-1.77,-2.1
+Pila,Región 17,1.52,0.5,0.507,0.6,4,positivo,2.82,1.8
+Pilar,Región 11,2.72,1.6,1.84,1.4,0,positivo,-2.58,-3.7
+Pinamar,Región 18,2.94,2.8,2.547,2.35,0,positivo,0.14,0.0
+Presidente Perón,Región 5,5.48,2.6,3.427,3.05,0,positivo,-1.12,-4.0
+Punta Indio,Región 1,1.47,1.9,2.557,1.685,5,positivo,2.17,2.6
+Puán,Región 23,2.14,2.14,2.18,1.97,0,positivo,-0.46,-0.46
+Quilmes,Región 4,2.93,2.93,3.043,2.765,0,positivo,-3.57,-3.57
+Ramallo,Región 12,0.1,2.2,1.633,1.15,1,positivo,-5.7,-3.6
+Rauch,Región 17,2.29,1.6,1.73,1.45,1,positivo,0.89,0.2
+Rivadavia,Región 16,3.84,3.84,3.813,3.42,1,positivo,0.64,0.64
+Rojas,Región 13,0.9,2.1,2.3,1.5,2,positivo,1.9,3.1
+Roque Pérez,Región 24,-0.15,-0.15,0.417,0.325,2,negativo,-9.75,-9.75
+Saavedra,Región 23,4.82,4.82,5.407,4.51,2,positivo,-1.38,-1.38
+Saladillo,Región 24,2.46,1.4,1.02,1.1,1,positivo,-1.14,-2.2
+Salliqueló,Región 16,-0.33,-0.33,0.057,0.685,3,negativo,-5.33,-5.33
+Salto,Región 13,3.79,3.1,3.03,2.65,1,positivo,-2.91,-3.6
+San Andrés de Giles,Región 10,2.06,2.06,1.753,1.23,2,positivo,-0.44,-0.44
+San Antonio de Areco,Región 13,1.8,2.9,2.933,2.35,1,positivo,-3.5,-2.4
+San Cayetano,Región 20,3.16,2.2,2.22,1.75,4,positivo,7.16,6.2
+San Fernando,Región 6,0.74,2.2,2.28,1.9,0,positivo,-1.76,-0.3
+San Isidro,Región 6,1.73,2.2,2.243,1.965,1,positivo,-0.87,-0.4
+San Miguel,Región 9,1.43,2.1,2.043,1.765,1,positivo,-2.77,-2.1
+San Nicolás,Región 12,0.89,2.8,2.33,1.845,1,positivo,-4.71,-2.8
+San Pedro,Región 12,5.38,5.0,4.993,4.8,0,positivo,-0.52,-0.9
+San Vicente,Región 5,1.86,3.2,3.587,2.53,1,positivo,-6.34,-5.0
+Suipacha,Región 10,3.52,3.52,3.74,2.41,0,positivo,-3.58,-3.58
+Tandil,Región 20,1.35,1.35,1.417,0.875,0,positivo,-2.25,-2.25
+Tapalqué,Región 25,3.28,3.28,2.693,1.94,2,positivo,-1.82,-1.82
+Tigre,Región 6,3.75,3.5,3.517,3.4,0,positivo,-1.05,-1.3
+Tordillo,Región 18,7.03,6.1,5.177,5.0,2,positivo,3.43,2.5
+Tornquist,Región 23,3.92,3.92,4.173,3.81,0,positivo,1.52,1.52
+Trenque Lauquen,Región 16,1.87,3.9,3.523,3.15,0,positivo,-0.03,2.0
+Tres Arroyos,Región 21,5.54,3.0,3.68,2.75,1,positivo,1.44,-1.1
+Tres Lomas,Región 16,1.48,2.2,2.927,1.85,1,positivo,-4.52,-3.8
+Tres de Febrero,Región 7,2.02,2.6,2.607,2.31,1,positivo,-1.58,-1.0
+Vicente López,Región 6,1.51,2.5,2.437,2.005,0,positivo,-1.69,-0.7
+Villa Gesell,Región 18,5.12,3.1,3.607,2.85,0,positivo,2.02,0.0
+Villarino,Región 22,3.6,3.6,3.533,3.25,0,positivo,-3.2,-3.2
+Zárate,Región 11,2.88,2.8,2.527,2.35,0,positivo,-5.72,-5.8

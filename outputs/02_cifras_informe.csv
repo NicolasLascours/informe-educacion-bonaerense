@@ -1,0 +1,21 @@
+﻿cifra_id,valor,unidad,notebook,celda_origen,descripcion
+matricula_2015,4914177.0,alumnos,02,celda 20,Matrícula total provincial 2015 (suma de regiones)
+matricula_2025,5001493.0,alumnos,02,celda 20,Matrícula total provincial 2025 (suma de regiones)
+matricula_variacion_2015_2025,1.7768,%,02,celda 22,Variación de la matrícula provincial 2015→2025
+matricula_anio_pico,2019.0,año,02,celda 20,Año de mayor matrícula provincial en la serie 2015–2025
+matricula_pico,5218472.0,alumnos,02,celda 20,Matrícula provincial en el año pico
+unidades_variacion_2015_2025,-2.7917,%,02,celda 22,Variación de las unidades de servicio 2015→2025
+regiones_bajan_matricula,13.0,regiones,02,celda 31,Regiones con variación de matrícula 2015→2025 negativa
+regiones_suben_matricula,12.0,regiones,02,celda 31,Regiones con variación de matrícula 2015→2025 positiva
+region_10_variacion,16.9753,%,02,celda 31,Región 10: mayor variación de matrícula 2015→2025
+region_6_variacion,-8.7594,%,02,celda 31,Región 6: menor variación de matrícula 2015→2025
+pila_variacion,47.9416,%,02,celda 58,Pila: mayor crecimiento municipal de matrícula 2015→2025
+general_rodriguez_variacion,43.1381,%,02,celda 58,General Rodríguez: 2º mayor crecimiento municipal
+san_isidro_variacion,-19.0644,%,02,celda 58,San Isidro: mayor caída municipal de matrícula 2015→2025
+carlos_tejedor_variacion,-18.7179,%,02,celda 58,Carlos Tejedor: 2ª mayor caída municipal
+docentes_2015,491441.0,cargos,02,celda 20,Cargos docentes provinciales 2015 (suma de regiones)
+docentes_2025,590851.0,cargos,02,celda 20,Cargos docentes provinciales 2025 (suma de regiones)
+docentes_variacion_2015_2025,20.2283,%,02,celda 22,Variación de los cargos docentes provinciales 2015→2025
+alumnos_por_cargo_2015,9.9995,alumnos por cargo,02,celda 28,"Matrícula por cargo docente, provincia, 2015"
+alumnos_por_cargo_2025,8.4649,alumnos por cargo,02,celda 28,"Matrícula por cargo docente, provincia, 2025"
+docentes_saltos_40,19.0,casos,02,Cargos docentes: síntesis provincial,Variaciones interanuales municipales de cargos docentes de más del 40 % (en valor absoluto)

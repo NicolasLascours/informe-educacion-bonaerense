@@ -1,0 +1,136 @@
+﻿municipio_nombre,municipio_id,region_educativa,establecimientos,ofertas,matricula,secciones
+La Matanza,06427,Región 3,1206,1320,411743,17069
+La Plata,06441,Región 1,850,927,237803,10132
+Lomas de Zamora,06490,Región 2,663,716,197426,8332
+General Pueyrredón,06357,Región 19,674,748,179821,8049
+Moreno,06560,Región 9,438,494,170029,5967
+Quilmes,06658,Región 4,532,575,163578,6616
+Almirante Brown,06028,Región 5,505,540,150665,6078
+Merlo,06539,Región 8,421,447,150446,5839
+Florencio Varela,06274,Región 4,346,370,134159,5110
+Pilar,06638,Región 11,351,391,120972,4539
+Lanús,06434,Región 2,423,463,111574,4826
+Tigre,06805,Región 6,398,428,110253,4962
+Avellaneda,06035,Región 2,367,403,105313,4512
+Berazategui,06091,Región 4,337,357,102798,4315
+San Miguel,06760,Región 9,305,339,97338,3898
+General San Martín,06371,Región 7,368,404,97253,4365
+Esteban Echeverría,06260,Región 5,251,276,93411,3461
+Morón,06568,Región 8,357,403,90936,4128
+Bahía Blanca,06056,Región 22,366,415,86928,4080
+José C. Paz,06412,Región 9,200,220,86500,3006
+Escobar,06252,Región 11,266,296,83518,3203
+Malvinas Argentinas,06515,Región 9,253,278,83007,3311
+San Isidro,06756,Región 6,321,361,68794,3303
+Tres de Febrero,06840,Región 7,314,342,68624,3394
+Ezeiza,06270,Región 5,181,190,65087,2392
+Vicente López,06861,Región 6,278,301,56775,2742
+General Rodríguez,06364,Región 10,126,134,49680,1716
+San Nicolás,06763,Región 12,210,228,44644,2036
+San Fernando,06749,Región 6,190,201,42102,2006
+Hurlingham,06408,Región 7,175,193,40034,1952
+Ituzaingó,06410,Región 8,160,182,38678,1713
+Zárate,06882,Región 11,160,173,38526,1732
+Campana,06126,Región 11,162,174,37991,1692
+Tandil,06791,Región 20,209,222,36763,1952
+Olavarría,06595,Región 25,224,244,35474,1933
+Luján,06497,Región 10,164,169,35141,1638
+San Vicente,06778,Región 5,111,116,33656,1262
+Presidente Perón,06648,Región 5,74,83,32815,1131
+Pergamino,06623,Región 13,183,196,31880,1483
+Junín,06413,Región 14,161,174,29962,1543
+Berisso,06098,Región 1,107,118,29277,1457
+La Costa,06420,Región 18,96,109,28303,1224
+Necochea,06581,Región 20,159,175,27839,1516
+Mercedes,06532,Región 10,140,150,25169,1134
+Cañuelas,06134,Región 10,113,122,24292,958
+Marcos Paz,06525,Región 10,86,94,22006,994
+San Pedro,06770,Región 12,125,131,21743,1066
+Chivilcoy,06224,Región 15,124,134,19993,1084
+Azul,06049,Región 25,150,166,19751,1141
+Ensenada,06245,Región 1,75,78,19545,936
+Coronel de Marina Leonardo Rosales,06182,Región 22,91,101,17757,921
+Tres Arroyos,06833,Región 21,116,127,17747,1069
+General Alvarado,06280,Región 19,84,93,15406,792
+Trenque Lauquen,06826,Región 16,132,140,15349,911
+Pehuajó,06609,Región 15,111,122,14481,880
+Balcarce,06063,Región 20,103,116,13683,695
+9 de Julio,06588,Región 15,115,118,13674,858
+Chacabuco,06210,Región 14,107,110,13264,801
+Chascomús,06218,Región 17,99,108,12897,653
+Lincoln,06469,Región 14,113,125,12712,797
+Lobos,06483,Región 24,91,96,12214,628
+Brandsen,06119,Región 1,73,78,12054,593
+Ramallo,06665,Región 12,68,74,12017,618
+Patagones,06602,Región 22,93,102,11972,687
+Bragado,06112,Región 15,71,76,11958,646
+Villa Gesell,06868,Región 18,46,52,11382,510
+Baradero,06070,Región 12,93,98,11361,590
+Coronel Suárez,06203,Región 23,106,116,11096,744
+Exaltación de la Cruz,06266,Región 11,65,69,11002,497
+Pinamar,06644,Región 18,42,45,10889,501
+25 de Mayo,06854,Región 24,118,126,10756,680
+Salto,06714,Región 13,67,69,10245,487
+Saladillo,06707,Región 24,88,91,10150,571
+Bolívar,06105,Región 25,107,113,9824,617
+Magdalena,06505,Región 1,74,77,9673,577
+Dolores,06238,Región 18,55,58,9539,485
+General Villegas,06392,Región 16,89,94,9330,550
+General Juan Madariaga,06315,Región 18,66,70,9263,494
+Mar Chiquita,06518,Región 19,75,82,9134,476
+Villarino,06875,Región 22,85,93,8943,605
+Arrecifes,06077,Región 12,61,64,8542,423
+San Antonio de Areco,06735,Región 13,69,74,8039,439
+San Andrés de Giles,06728,Región 10,83,86,7802,485
+General Belgrano,06301,Región 17,47,50,7225,446
+General Las Heras,06329,Región 10,42,48,7204,328
+Monte,06547,Región 17,54,58,7138,384
+Carlos Casares,06147,Región 15,71,75,7053,441
+Las Flores,06455,Región 24,72,78,7023,438
+Rojas,06686,Región 13,60,64,6869,400
+Ayacucho,06042,Región 18,80,86,6812,474
+Coronel Pringles,06196,Región 21,63,68,6777,429
+Colón,06175,Región 13,51,57,6655,348
+Benito Juárez,06084,Región 21,48,54,6459,438
+Saavedra,06700,Región 23,58,63,6057,421
+Lobería,06476,Región 20,75,81,5762,429
+General Viamonte,06385,Región 14,50,54,5599,390
+Navarro,06574,Región 10,69,71,5487,306
+Rivadavia,06679,Región 16,58,63,5385,331
+Leandro N. Alem,06462,Región 14,49,55,5047,356
+Carmen de Areco,06161,Región 13,55,58,4781,308
+Daireaux,06231,Región 23,59,61,4683,337
+Capitán Sarmiento,06140,Región 12,34,36,4592,264
+Rauch,06672,Región 17,57,60,4534,310
+Adolfo Alsina,06007,Región 23,61,70,4302,310
+Coronel Dorrego,06189,Región 21,58,65,4229,323
+Adolfo Gonzales Chaves,06014,Región 21,45,49,4070,336
+General Paz,06343,Región 17,53,57,4018,251
+Roque Pérez,06693,Región 24,56,59,4016,276
+Tornquist,06819,Región 23,54,60,3943,292
+General Arenales,06294,Región 14,44,48,3847,268
+General Pinto,06351,Región 14,40,44,3774,283
+General Alvear,06287,Región 24,55,58,3670,274
+Punta Indio,06655,Región 1,37,40,3476,221
+Puán,06651,Región 23,58,65,3465,278
+Laprida,06448,Región 21,42,45,3350,260
+Carlos Tejedor,06154,Región 16,59,64,3298,307
+Maipú,06511,Región 18,36,39,3232,201
+General La Madrid,06322,Región 23,43,46,3217,255
+Suipacha,06784,Región 10,40,44,3184,245
+Alberti,06021,Región 15,43,52,3183,225
+Guaminí,06399,Región 23,58,64,3167,288
+Tapalqué,06798,Región 25,49,52,3013,235
+Hipólito Yrigoyen,06406,Región 15,30,32,2936,197
+Florentino Ameghino,06277,Región 14,32,35,2772,204
+Tres Lomas,06847,Región 16,26,29,2624,212
+Salliqueló,06721,Región 16,22,26,2501,190
+Monte Hermoso,06553,Región 22,21,23,2483,181
+Castelli,06168,Región 18,35,40,2474,149
+San Cayetano,06742,Región 20,24,26,2391,183
+Pellegrini,06616,Región 16,24,27,2080,159
+General Lavalle,06336,Región 18,28,33,1938,131
+Lezama,06466,Región 17,28,31,1829,134
+Pila,06630,Región 17,34,37,1407,124
+General Guido,06308,Región 18,26,27,884,82
+Tordillo,06812,Región 18,14,15,639,55

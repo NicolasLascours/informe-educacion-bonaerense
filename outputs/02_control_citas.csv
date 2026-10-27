@@ -1,0 +1,203 @@
+﻿markdown,celda,texto_citado,valor_citado,valor_calculado,estado
+md-regiones,36,13 registraron una disminución,13.0,13.0,OK
+md-regiones,36,12 mostraron un aumento,12.0,12.0,OK
+md-regiones,36,"Región 6: −8,76 %",-8.76,-8.76,OK
+md-regiones,36,"Región 8: −6,29 %",-6.29,-6.29,OK
+md-regiones,36,"Región 25: −6,04 %",-6.04,-6.04,OK
+md-regiones,36,"Región 7: −5,81 %",-5.81,-5.81,OK
+md-regiones,36,"Región 10: +16,98 %",16.98,16.98,OK
+md-regiones,36,"Región 11: +12,02 %",12.02,12.02,OK
+md-regiones,36,"Región 5: +10,52 %",10.52,10.52,OK
+md-regiones,36,"Región 17: +9,61 %",9.61,9.61,OK
+md-regiones,36,"Región 6: −8,76 %.
+
+Región 8: −6,29 %.
+
+Región 25: −6,04 %.
+
+Región 7: −5,81 %.","[6, 7, 8, 25]","[6, 7, 8, 25]",OK
+md-regiones,36,"Región 10: +16,98 %.
+
+Región 11: +12,02 %.
+
+Región 5: +10,52 %.
+
+Región 17: +9,61 %.","[5, 10, 11, 17]","[5, 10, 11, 17]",OK
+md-regiones,36,bajaron en 18,18.0,18.0,OK
+md-regiones,36,subieron en 7,7.0,7.0,OK
+md-regiones,36,"las Regiones 1, 3, 5, 10, 11, 17 y 18","[1, 3, 5, 10, 11, 17, 18]","[1, 3, 5, 10, 11, 17, 18]",OK
+md-regiones,36,pasó de 902,902.0,902.0,OK
+md-regiones,36,a 924 unidades,924.0,924.0,OK
+md-regiones,36,"a 924 unidades (+2,44 %)",2.44,2.44,OK
+md-regiones,36,"la Región 6 (−7,49 %), la Región 22 (−7,32 %), la Región 4 (−7,26 %) y la Región 15 (−6,88 %)","[4, 6, 15, 22]","[4, 6, 15, 22]",OK
+md-regiones,36,"la Región 23 (+82,23 %), la Región 17 (+53,98 %), la Región 1 (+42,10 %) y la Región 18 (+37,29 %)","[1, 17, 18, 23]","[1, 17, 18, 23]",OK
+md-regiones,36,"Región 6 (−7,49 %)",-7.49,-7.49,OK
+md-regiones,36,"Región 22 (−7,32 %)",-7.32,-7.32,OK
+md-regiones,36,"Región 4 (−7,26 %)",-7.26,-7.26,OK
+md-regiones,36,"Región 15 (−6,88 %)",-6.88,-6.88,OK
+md-regiones,36,"variación de −0,19 %",-0.19,-0.19,OK
+md-regiones,36,"aumento de matrícula del 16,98 %",16.98,16.98,OK
+md-regiones,36,"aumento de unidades de servicio del 2,44 %",2.44,2.44,OK
+md-regiones,36,"variación de matrícula de +0,43 %",0.43,0.43,OK
+md-regiones,36,"disminución de unidades de servicio del 7,26 %",7.26,7.26,OK
+md-regiones,36,Las 25 regiones muestran,25.0,25.0,OK
+md-regiones,36,"Región 23 (+82,23 %)",82.23,82.23,OK
+md-regiones,36,"Región 17 (+53,98 %)",53.98,53.98,OK
+md-regiones,36,"Región 1 (+42,10 %)",42.1,42.1,OK
+md-regiones,36,"Región 18 (+37,29 %)",37.29,37.29,OK
+md-r23-salto,40,pasaron de 6.972,6972.0,6972.0,OK
+md-r23-salto,40,a 8.793,8793.0,8793.0,OK
+md-r23-salto,40,llegaron a 12.705,12705.0,12705.0,OK
+md-r23-salto,40,es de 3.912,3912.0,3912.0,OK
+md-r23-salto,40,"aproximadamente un 44,5 %",44.5,44.49,OK
+md-r23-interanual,43,"2024 (+8,01 %)",8.01,8.01,OK
+md-r23-interanual,43,"2025 (+44,49 %)",44.49,44.49,OK
+md-r23-interanual,43,"de +82,23 %",82.23,82.23,OK
+md-r23-caso,45,"aumentaron un 82,23 %",82.23,82.23,OK
+md-r23-caso,45,pasar de 6.972,6972.0,6972.0,OK
+md-r23-caso,45,a 12.705,12705.0,12705.0,OK
+md-r23-caso,45,"aumentaron un 44,49 %",44.49,44.49,OK
+md-r23-caso,45,de 8.793,8793.0,8793.0,OK
+md-r23-caso,45,"disminuyeron un 0,36 %",0.36,0.36,OK
+md-r23-caso,45,"la matrícula un 1,69 %",1.69,1.69,OK
+md-r23-caso,45,"aproximadamente el 0,37 %",0.37,0.37,OK
+md-municipal-parcial,56,aumentó en 82 municipios,82.0,82.0,OK
+md-municipal-parcial,56,de 135,135.0,135.0,OK
+md-municipal-parcial,56,"(60,7 %)",60.7,60.74,OK
+md-municipal-parcial,56,disminuyeron en 88 municipios,88.0,88.0,OK
+md-municipal-parcial,56,"(65,2 %)",65.2,65.19,OK
+md-municipal-parcial,56,Solo 37 municipios,37.0,37.0,OK
+md-municipal-parcial,56,y 10 no registraron,10.0,10.0,OK
+md-municipal-parcial,56,"La Plata: matrícula +6,15 %",6.15,6.15,OK
+md-municipal-parcial,56,"La Plata: matrícula +6,15 % y unidades +2,32 %",2.32,2.32,OK
+md-municipal-parcial,56,"Pilar: matrícula +13,66 %",13.66,13.66,OK
+md-municipal-parcial,56,"Pilar: matrícula +13,66 % y unidades +4,83 %",4.83,4.83,OK
+md-municipal-parcial,56,"San Vicente: matrícula +36,04 %",36.04,36.04,OK
+md-municipal-parcial,56,"San Vicente: matrícula +36,04 % y unidades +25,88 %",25.88,25.88,OK
+md-municipal-parcial,56,"San Isidro: matrícula −19,06 %",-19.06,-19.06,OK
+md-municipal-parcial,56,"San Isidro: matrícula −19,06 % y unidades −9,88 %",-9.88,-9.88,OK
+md-municipal-parcial,56,"General Pueyrredón: matrícula −4,01 %",-4.01,-4.01,OK
+md-municipal-parcial,56,"General Pueyrredón: matrícula −4,01 % y unidades −7,37 %",-7.37,-7.37,OK
+md-municipal-cruce,66,los 135 municipios,135.0,135.0,OK
+md-municipal-cruce,66,aumentó en 82 municipios,82.0,82.0,OK
+md-municipal-cruce,66,disminuyó en 53,53.0,53.0,OK
+md-municipal-cruce,66,disminuyeron en 88 municipios,88.0,88.0,OK
+md-municipal-cruce,66,aumentaron en 37,37.0,37.0,OK
+md-municipal-cruce,66,sin cambios en 10,10.0,10.0,OK
+md-municipal-cruce,66,se observa que 46 municipios,46.0,46.0,OK
+md-municipal-cruce,66,"(34,07 %",34.07,34.07,OK
+md-municipal-cruce,66,En otros 42 municipios,42.0,42.0,OK
+md-municipal-cruce,66,"(31,11 %",31.11,31.11,OK
+md-municipal-cruce,66,32 municipios (,32.0,32.0,OK
+md-municipal-cruce,66,"(23,70 %",23.7,23.7,OK
+md-municipal-cruce,66,Los 15 municipios restantes,15.0,15.0,OK
+md-municipal-cruce,66,2 municipios registraron,2.0,2.0,OK
+md-municipal-cruce,66,"; 5, una",5.0,5.0,OK
+md-municipal-cruce,66,"; 8, un",8.0,8.0,OK
+md-municipal-cruce,66,"el 86,79 %",86.79,86.79,OK
+md-municipal-cruce,66,"el 3,77 %",3.77,3.77,OK
+md-municipal-cruce,66,"el 9,43 %",9.43,9.43,OK
+md-municipal-cruce,66,"el 51,22 %",51.22,51.22,OK
+md-municipal-cruce,66,"el 9,76 %",9.76,9.76,OK
+md-municipal-cruce,66,"el 39,02 %",39.02,39.02,OK
+md-lp-periodo,74,aumento de 14.334,14334.0,14334.0,OK
+md-lp-periodo,74,y 21 unidades,21.0,21.0,OK
+md-lp-anual,77,2019 (256.837),256837.0,256837.0,OK
+md-lp-anual,77,−8.095,-8095.0,-8095.0,OK
+md-lp-anual,77,"(−3,17 %)",-3.17,-3.17,OK
+md-lp-anual,77,entre 905,905.0,905.0,OK
+md-lp-anual,77,y 937,937.0,937.0,OK
+md-lp-anual,77,había 926,926.0,926.0,OK
+md-lp-anual,77,"aumentaron un 29,68 %",29.68,29.68,OK
+md-lp-anual,77,"disminuyeron un 13,84 %",13.84,13.84,OK
+md-lp-razon-cargo,83,"pasó de 10,84",10.84,10.84,OK
+md-lp-razon-cargo,83,"a 7,89",7.89,7.89,OK
+md-lp-razon-cargo,83,"aproximada del 27,2 %",27.2,27.19,OK
+md-lp-cargos-2022,87,"aumento del 29,68 %",29.68,29.68,OK
+md-lp-cargos-2022,87,"Tres Lomas (+64,92 %)",64.92,64.92,OK
+md-lp-cargos-2022,87,"Chacabuco (+44,99 %)",44.99,44.99,OK
+md-lp-cargos-2022,87,"Lezama (+35,74 %)",35.74,35.74,OK
+md-lp-cargos-2022,87,"Carlos Casares (+35,04 %)",35.04,35.04,OK
+md-lp-cargos-2022,87,"La Plata registró un aumento del 29,68 %",29.68,29.68,OK
+md-lp-cargos-2022,87,"Tres Lomas (+64,92 %), Chacabuco (+44,99 %), Lezama (+35,74 %) y Carlos Casares (+35,04 %)",lista de nombres,"['Carlos Casares', 'Chacabuco', 'Lezama', 'Tres Lomas']",OK
+md-cargos-2022-conclusiones,89,ocurrió en 89 municipios,89.0,89.0,OK
+md-cargos-2022-nota,90,"aumentó un 29,68 %",29.68,29.68,OK
+md-cargos-2022-nota,90,los 135 municipios,135.0,135.0,OK
+md-cargos-2022-nota,90,89 registraron aumentos,89.0,89.0,OK
+md-cargos-2022-nota,90,y 46 disminuciones,46.0,46.0,OK
+md-cargos-2022-nota,90,"fue del 2,06 %",2.06,2.06,OK
+md-lp-sintesis,98,aumentó de 233.062,233062.0,233062.0,OK
+md-lp-sintesis,98,a 247.396,247396.0,247396.0,OK
+md-lp-sintesis,98,"incremento del 6,15 %",6.15,6.15,OK
+md-lp-sintesis,98,pasaron de 905,905.0,905.0,OK
+md-lp-sintesis,98,a 926,926.0,926.0,OK
+md-lp-sintesis,98,"a 926 (+2,32 %)",2.32,2.32,OK
+md-lp-sintesis,98,"aumentó de 257,53",257.53,257.53,OK
+md-lp-sintesis,98,"a 267,17",267.17,267.17,OK
+md-lp-sintesis,98,"variación del 3,74 %",3.74,3.74,OK
+md-lp-sintesis,98,máximo en 2023,2023.0,2023.0,OK
+md-lp-sintesis,98,"(275,99",275.99,275.99,OK
+md-lp-sintesis,98,"contra 275,91",275.91,275.91,OK
+md-lp-sintesis,98,"pasó de 21.506,73",21506.73,21506.73,OK
+md-lp-sintesis,98,"a 31.356,82",31356.82,31356.82,OK
+md-lp-sintesis,98,"a 31.356,82 (+45,80 %)",45.8,45.8,OK
+md-lp-posicion,106,"matrícula un 6,15 %",6.15,6.15,OK
+md-lp-posicion,106,otros 134,134.0,134.0,OK
+md-lp-posicion,106,92 tuvieron una variación menor,92.0,92.0,OK
+md-lp-posicion,106,42 tuvieron una mayor,42.0,42.0,OK
+md-lp-posicion,106,"aproximadamente el 68,7 %",68.7,68.66,OK
+md-conclusiones,126,pasó de 4.914.177,4914177.0,4914177.0,OK
+md-conclusiones,126,a 5.001.493,5001493.0,5001493.0,OK
+md-conclusiones,126,incremento neto de 87.316,87316.0,87316.0,OK
+md-conclusiones,126,"aproximadamente al 1,78 %",1.78,1.78,OK
+md-conclusiones,126,pasaron de 22.137,22137.0,22137.0,OK
+md-conclusiones,126,a 21.519,21519.0,21519.0,OK
+md-conclusiones,126,disminución neta de 618,618.0,618.0,OK
+md-conclusiones,126,"aproximadamente al 2,79 %",2.79,2.79,OK
+md-conclusiones,126,alcanzó su máximo en 2019,2019.0,2019.0,OK
+md-conclusiones,126,recuperación en 2021,2021.0,2021.0,OK
+md-conclusiones,126,una baja en 2022,2022.0,2022.0,OK
+md-conclusiones,126,y 2023 y nuevas,2023.0,2023.0,OK
+md-conclusiones,126,82 registraron un aumento,82.0,82.0,OK
+md-conclusiones,126,53 presentaron una disminución,53.0,53.0,OK
+md-conclusiones,126,"aproximadamente el 60,7 %",60.7,60.74,OK
+md-conclusiones,126,"media de 4,30 %",4.3,4.3,OK
+md-conclusiones,126,"mediana de 1,70 %",1.7,1.7,OK
+md-conclusiones,126,"disminución del 19,06 %",19.06,19.06,OK
+md-conclusiones,126,"aumento del 47,94 %",47.94,47.94,OK
+md-conclusiones,126,"incremento del 6,15 %",6.15,6.15,OK
+md-conclusiones,126,por encima de la de 92,92.0,92.0,OK
+md-conclusiones,126,por debajo de la de los otros 42,42.0,42.0,OK
+md-conclusiones,126,La Matanza (+20.913),20913.0,20913.0,OK
+md-conclusiones,126,Moreno (+18.068),18068.0,18068.0,OK
+md-conclusiones,126,General Rodríguez (+15.704),15704.0,15704.0,OK
+md-conclusiones,126,Pilar (+15.158),15158.0,15158.0,OK
+md-conclusiones,126,La Plata (+14.334),14334.0,14334.0,OK
+md-conclusiones,126,San Isidro (−16.973),-16973.0,-16973.0,OK
+md-conclusiones,126,Morón (−13.875),-13875.0,-13875.0,OK
+md-conclusiones,126,Vicente López (−8.862),-8862.0,-8862.0,OK
+md-conclusiones,126,"La Matanza (+20.913), Moreno (+18.068), General Rodríguez (+15.704), Pilar (+15.158) y La Plata (+14.334)",lista de nombres,"['General Rodríguez', 'La Matanza', 'La Plata', 'Moreno', 'Pilar']",OK
+md-conclusiones,126,"San Isidro (−16.973), Morón (−13.875) y Vicente López (−8.862)",lista de nombres,"['Morón', 'San Isidro', 'Vicente López']",OK
+md-heatmap,60,Mar Chiquita en 2023 (12.734,12734.0,12734.0,OK
+md-heatmap,60,contra 9.362,9362.0,9362.0,OK
+md-heatmap,60,y 9.936,9936.0,9936.0,OK
+md-conclusiones,126,incremento conjunto de 126.640,126640.0,126640.0,OK
+md-conclusiones,126,"equivalente al 145,04 %",145.04,145.04,OK
+md-conclusiones,126,cambio neto provincial de 87.316,87316.0,87316.0,OK
+md-conclusiones,126,es del 100 %,100.0,100.0,OK
+md-conclusiones,126,La Plata pasó de 233.062,233062.0,233062.0,OK
+md-conclusiones,126,a 247.396,247396.0,247396.0,OK
+md-conclusiones,126,incremento neto de 14.334,14334.0,14334.0,OK
+md-conclusiones,126,aumentaron de 905,905.0,905.0,OK
+md-conclusiones,126,"a 926 (+2,32 %)",2.32,2.32,OK
+md-conclusiones,126,aproximadamente 21.507,21507.0,21506.73,OK
+md-conclusiones,126,a 31.357,31357.0,31356.82,OK
+md-conclusiones,126,"a 31.357 (+45,80 %)",45.8,45.8,OK
+md-conclusiones,126,máximo de 256.837,256837.0,256837.0,OK
+md-conclusiones,126,"pasó de 257,53",257.53,257.53,OK
+md-conclusiones,126,"a 267,17",267.17,267.17,OK
+md-conclusiones,126,"aproximadamente un 3,74 %",3.74,3.74,OK
+md-unidades-aumentos,130,matrícula de 496,496.0,496.0,OK
+md-unidades-aumentos,130,aumento de 15.704,15704.0,15704.0,OK
+md-unidades-caidas,132,perdió 43,43.0,43.0,OK
+md-unidades-caidas,132,aumentó en 4.565,4565.0,4565.0,OK

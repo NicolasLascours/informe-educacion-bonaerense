@@ -1,0 +1,19 @@
+﻿cifra_id,valor,unidad,notebook,celda_origen,descripcion
+eventos_total,519.0,eventos,03,celda 5,Eventos de expansión 23/04/2020 – 02/09/2026
+municipios_con_eventos,115.0,municipios,03,celda 5,Municipios con al menos un evento
+eventos_2022,133.0,eventos,03,celda 20,Eventos con acto en 2022
+eventos_2023,153.0,eventos,03,celda 20,Eventos con acto en 2023
+pico_2022_2023_eventos,286.0,eventos,03,celda 23,133 de 2022 + 153 de 2023
+pico_2022_2023_pct,55.106,%,03,celda 23,Eventos de 2022–2023 sobre el total de 519
+rural_eventos_pct,27.553,%,03,celda 28,"9,4 % rural agrupado + 18,1 % rural disperso; la suma da 27,5 por redondeo, se reporta 27,6 (143 de 519 eventos)"
+rural_padron_pct,15.3714,%,03,celda 28,"Establecimientos únicos rurales del padrón (5,5 % agrupado + 9,9 % disperso)"
+eventos_con_par_padron,517.0,eventos,03,celda 43,Eventos con par en el padrón por cueanexo
+eventos_sin_par_padron,2.0,eventos,03,celda 45,"Eventos sin par: los 2 CIIE (Lezama 2022, Alberti 2025)"
+eventos_ofertas_nueva,24.0,eventos,03,celda 48,Eventos cuyo establecimiento figura como oferta Nueva (sin matrícula) en el padrón
+nueva_2023_sin_matricula,3.0,ofertas,03,celda 48,Ofertas creadas en 2023 que siguen sin matrícula al corte de 2026
+municipios_sin_eventos,20.0,municipios,03,celda 54,Municipios sin eventos de expansión registrados (de 135)
+spearman_expansion_matricula_115,0.365,Spearman,03,celda 54,"Eventos cada 10.000 alumnos vs. variación de matrícula 2020→2025, 115 municipios con eventos"
+spearman_expansion_matricula_135,0.251,Spearman,03,celda 54,"Ídem, incluyendo los 20 municipios sin eventos (sensibilidad)"
+jardines_eventos,170.0,eventos,03,Eventos por nivel,"Eventos de jardines (de infantes, rurales e islas, comunitarios y maternales)"
+jardines_pct,32.7553,%,03,Eventos por nivel,Jardines sobre el total de eventos; es el nivel con más eventos
+secundaria_eventos,152.0,eventos,03,Eventos por nivel,"Eventos de secundaria (incluye CENS para adultos), 2º nivel con más eventos"

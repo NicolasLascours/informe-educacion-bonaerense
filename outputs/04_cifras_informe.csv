@@ -1,0 +1,16 @@
+﻿cifra_id,valor,unidad,notebook,celda_origen,descripcion
+abandono_2010_11,8.9,%,04,celda 20,"Abandono secundario, total provincial, ciclo 2010-11"
+abandono_2019_20,2.7,%,04,celda 20,"Abandono secundario, total provincial, ciclo 2019-20"
+abandono_2020_21,0.4,%,04,celda 20,Ciclo atípico: pandemia y promoción acompañada
+abandono_2021_22,2.8,%,04,celda 20,"Abandono secundario, total provincial, ciclo 2021-22"
+abandono_2023_24,2.84,%,04,celda 20,"Abandono secundario, total provincial, ciclo 2023-24 (último)"
+municipios_bajan_abandono,112.0,municipios,04,celda 30,"Municipios con cambio robusto < 0 (mediana 2021-24 menos mediana 2015-18), de 135"
+mediana_cambio_abandono,-2.1,pp,04,celda 25,Mediana del cambio robusto del abandono por municipio
+valores_negativos,124.0,valores,04,celda 15,Valores municipales negativos (la tasa es un residuo)
+valores_negativos_pct,6.5643,%,04,celda 15,Negativos sobre los 1.889 valores municipales con dato
+eventos_secundarios_2020_2023,111.0,eventos,04,celda 46,Eventos de expansión de nivel secundario con acto 2020–2023
+municipios_con_eventos_secundarios,63.0,municipios,04,celda 46,Municipios con al menos un evento secundario 2020–2023
+spearman_expansion_abandono,0.0942,Spearman,04,celda 46,Eventos secundarios cada 10.000 alumnos de secundaria vs. abandono 2020-21 a 2023-24 (63 municipios)
+abandono_con_eventos_secundarios,2.56,%,04,celda 46,Mediana de abandono 2020-21 a 2023-24 en municipios con eventos secundarios
+abandono_sin_eventos_secundarios,2.28,%,04,celda 46,"Ídem, municipios sin eventos secundarios"
+correlacion_max_abs_cruces,0.0942,Spearman,04,celda 50,"Mayor correlación en valor absoluto de los cruces con 02, 03 y 01"

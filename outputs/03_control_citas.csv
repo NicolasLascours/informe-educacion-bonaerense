@@ -1,0 +1,83 @@
+﻿markdown,celda,texto_citado,valor_citado,valor_calculado,estado
+md-alcance,1,con 519 eventos,519.0,519.0,OK
+md-alcance,1,en 115 municipios,115.0,115.0,OK
+md-dos-eventos,14,El establecimiento 102873,[102873],[102873],OK
+md-pico,24,hay 286 eventos,286.0,286.0,OK
+md-pico,24,"el 55,1 % del total",55.1,55.11,OK
+md-pico,24,(169 eventos,169.0,169.0,OK
+md-pico,24,"59,1 % del pico",59.1,59.1,OK
+md-pico,24,"el 62,2 % de todas las independizaciones",62.2,62.2,OK
+md-pico,24,"el 65,5 % de todos los anexos",65.5,65.5,OK
+md-pico,24,"contra el 54,0 % de las creaciones",54.0,54.0,OK
+md-pico,24,"(44,8 % en el pico)",44.8,44.8,OK
+md-rural,29,"el 27,6 % de los eventos",27.6,27.55,OK
+md-rural,29,(143,143.0,143.0,OK
+md-rural,29,de 519),519.0,519.0,OK
+md-rural,29,"contra 15,4 %",15.4,15.37,OK
+md-territorio,35,La Matanza (37),37.0,37.0,OK
+md-territorio,35,Lomas de Zamora (32),32.0,32.0,OK
+md-territorio,35,Almirante Brown (23),23.0,23.0,OK
+md-territorio,35,San Vicente (19),19.0,19.0,OK
+md-territorio,35,"La Matanza (37), Lomas de Zamora (32), Almirante Brown (23) y San Vicente (19)",lista de nombres,"['Almirante Brown', 'La Matanza', 'Lomas de Zamora', 'San Vicente']",OK
+md-territorio,35,General Guido: 4 eventos,4.0,4.0,OK
+md-territorio,35,884 alumnos,884.0,884.0,OK
+md-territorio,35,(General Guido,lista de nombres,['General Guido'],OK
+md-territorio,35,"(Spearman ≈0,90",0.9,0.9,OK
+md-territorio,35,"0,90 en los 115",115.0,115.0,OK
+md-territorio,35,; 8 municipios se repiten,8.0,8.0,OK
+md-sin-par,46,**517,517.0,517.0,OK
+md-sin-par,46,Los 2 sin par,2.0,2.0,OK
+md-sin-par,46,Lezama y Alberti,lista de nombres,"['Alberti', 'Lezama']",OK
+md-sin-par,46,Los 2 sin par son Centros de Investigación Educativa,2.0,2.0,OK
+md-nueva,49,**24 de los eventos,24.0,24.0,OK
+md-nueva,49,Son 24 establecimientos,24.0,24.0,OK
+md-nueva,49,(15 creaciones,15.0,15.0,OK
+md-nueva,49,4 anexos,4.0,4.0,OK
+md-nueva,49,3 independizaciones,3.0,3.0,OK
+md-nueva,49,1 reapertura,1.0,1.0,OK
+md-nueva,49,1 estatización,1.0,1.0,OK
+md-nueva,49,"Por año del acto, 16",16.0,16.0,OK
+md-nueva,49,la mitad de los 31,31.0,31.0,OK
+md-nueva,49,"eventos de 2026), 5",5.0,5.0,OK
+md-nueva,49,2025 y 3,3.0,3.0,OK
+md-nueva,49,"casi tres años después: la Escuela de Educación Primaria N°99 (Lomas de Zamora), el Centro de Formación Profesional N°404 (San Miguel) y el Centro de Formación Laboral Nº405 (Florencio Varela)",lista de nombres,"['Florencio Varela', 'Lomas de Zamora', 'San Miguel']",OK
+md-ventanas,53,Se incluyen los 115,115.0,115.0,OK
+md-ventanas,53,los 20 sin eventos,20.0,20.0,OK
+md-correlacion,58,"(Spearman ≈0,36",0.36,0.36,OK
+md-correlacion,58,en los 115 municipios,115.0,115.0,OK
+md-correlacion,58,los 20 municipios sin eventos,20.0,20.0,OK
+md-correlacion,58,"(media +0,55 %",0.55,0.55,OK
+md-correlacion,58,"contra +0,02 %",0.02,0.02,OK
+md-correlacion,58,"mediana −1,14 %",-1.14,-1.14,OK
+md-correlacion,58,"contra −1,16 %",-1.16,-1.16,OK
+md-correlacion,58,"2015→2020 (Spearman ≈−0,03",-0.03,-0.03,OK
+md-correlacion,58,"(+4,63 %",4.63,4.63,OK
+md-correlacion,58,"contra +1,81 %",1.81,1.81,OK
+md-correlacion,58,"baja a ≈0,25",0.25,0.25,OK
+md-correlacion,58,"(≈−0,02)",-0.02,-0.02,OK
+md-san-vicente,61,tiene 19 eventos,19.0,19.0,OK
+md-san-vicente,61,(18 establecimientos,18.0,18.0,OK
+md-san-vicente,61,por el 102873,[102873],[102873],OK
+md-san-vicente,61,15 creaciones,15.0,15.0,OK
+md-san-vicente,61,2 anexos,2.0,2.0,OK
+md-san-vicente,61,1 reapertura,1.0,1.0,OK
+md-san-vicente,61,1 independización,1.0,1.0,OK
+md-san-vicente,61,17 son urbanos,17.0,17.0,OK
+md-san-vicente,61,y 2 rurales,2.0,2.0,OK
+md-san-vicente,61,los jardines (6),6.0,6.0,OK
+md-san-vicente,61,las primarias (5),5.0,5.0,OK
+md-san-vicente,61,Es 4º,4.0,4.0,OK
+md-san-vicente,61,"absolutos, 1º",1.0,1.0,OK
+md-san-vicente,61,y 22º,22.0,22.0,OK
+md-san-vicente,61,"+36,04 %",36.04,36.04,OK
+md-san-vicente,61,"+22,6 %",22.6,22.59,OK
+md-san-vicente,61,(+6.686,6686.0,6686.0,OK
+md-san-vicente,61,el 2º mayor,2.0,2.0,OK
+md-san-vicente,61,suman unos 3.318,3318.0,3318.0,OK
+md-san-vicente,61,con el +6.686,6686.0,6686.0,OK
+md-casos,62,con el padrón**: 517,517.0,517.0,OK
+md-casos,62,"27,6 % de los eventos",27.6,27.55,OK
+md-casos,62,"contra 15,4 %",15.4,15.37,OK
+md-casos,62,24 eventos son,24.0,24.0,OK
+md-casos,62,"""Nueva""; 3",3.0,3.0,OK
+md-casos,62,"(Spearman ≈0,36",0.36,0.36,OK

@@ -1,0 +1,79 @@
+﻿markdown,celda,texto_citado,valor_citado,valor_calculado,estado
+md-alcance,1,con 14 ciclos,14.0,14.0,OK
+md-alcance,1,para 135 municipios,135.0,135.0,OK
+md-nombres,10,(código 182),[182],[182],OK
+md-nombres,10,"""CORONEL DE MARINA L. ROSALES""",lista de nombres,['CORONEL DE MARINA L. ROSALES'],OK
+md-nulos,13,Hay 1 nulo,1.0,1.0,OK
+md-nulos,13,Lezama no tiene dato en 2010-11,lista de nombres,['Lezama'],OK
+md-negativos,16,(124 casos,124.0,124.0,OK
+md-negativos,16,"6,6 % de los valores",6.6,6.56,OK
+md-negativos,16,2020-21 (39,39.0,39.0,OK
+md-negativos,16,2019-20 (21,21.0,21.0,OK
+md-negativos,16,Monte Hermoso tiene 6,6.0,6.0,OK
+md-negativos,16,(Monte Hermoso,lista de nombres,['Monte Hermoso'],OK
+md-precision,18,2023-24 viene con 2 decimales,2.0,2.0,OK
+md-precision,18,anteriores con 1,1.0,1.0,OK
+md-provincia,23,"baja de 8,9 %",8.9,8.9,OK
+md-provincia,23,"a 2,84 %",2.84,2.84,OK
+md-provincia,23,"(0,4 % provincial",0.4,0.4,OK
+md-provincia,23,"contra 2,7 %",2.7,2.7,OK
+md-provincia,23,"y 2,8 % en los ciclos vecinos",2.8,2.8,OK
+md-provincia,23,"(de 8,9 %",8.9,8.9,OK
+md-provincia,23,"a 2,7 % entre",2.7,2.7,OK
+md-provincia,23,"el nivel se mantiene: 2,8 %",2.8,2.8,OK
+md-provincia,23,"y 2,84 % en",2.84,2.84,OK
+md-superposicion-02,40,es de 9 ciclos,9.0,9.0,OK
+md-superposicion-03,45,(4 ciclos),4.0,4.0,OK
+md-municipios,27,"Hipólito Yrigoyen (mediana 6,26 %)",6.26,6.26,OK
+md-municipios,27,"Carlos Tejedor (6,20 %)",6.2,6.2,OK
+md-municipios,27,"General Guido y Tordillo (6,10 %)",6.1,6.1,OK
+md-municipios,27,"Hipólito Yrigoyen (mediana 6,26 %), Carlos Tejedor (6,20 %), General Guido y Tordillo",lista de nombres,"['Carlos Tejedor', 'General Guido', 'Hipólito Yrigoyen', 'Tordillo']",OK
+md-municipios,27,"medianas municipales es 2,9 %",2.9,2.9,OK
+md-municipios,27,4 municipios tienen mediana reciente negativa,4.0,4.0,OK
+md-municipios,27,"(Castelli, Monte Hermoso, Salliqueló y Roque Pérez)",lista de nombres,"['Castelli', 'Monte Hermoso', 'Roque Pérez', 'Salliqueló']",OK
+md-municipios,27,y 3 tienen el último ciclo negativo,3.0,3.0,OK
+md-municipios,27,"(Lezama, Roque Pérez y Salliqueló)",lista de nombres,"['Lezama', 'Roque Pérez', 'Salliqueló']",OK
+md-municipios,27,"Lezama tiene mediana 5,10 %",5.1,5.1,OK
+md-municipios,27,"pero −1,90 %",-1.9,-1.9,OK
+md-municipios,27,"Spearman 0,87",0.87,0.87,OK
+md-municipios,27,(13,13.0,13.0,OK
+md-municipios,27,"y 0,89",0.89,0.89,OK
+md-cambio,31,baja en 112,112.0,112.0,OK
+md-cambio,31,de los 135 municipios,135.0,135.0,OK
+md-cambio,31,"mediana del cambio es −2,1 pp",-2.1,-2.1,OK
+md-cambio,31,"Roque Pérez (−9,75 pp)",-9.75,-9.75,OK
+md-cambio,31,"Castelli (−7,50 pp)",-7.5,-7.5,OK
+md-cambio,31,"Roque Pérez (−9,75 pp) y Castelli",lista de nombres,"['Castelli', 'Roque Pérez']",OK
+md-cambio,31,"General Alvear (+8,63 pp)",8.63,8.63,OK
+md-cambio,31,"Adolfo Alsina (+6,80 pp)",6.8,6.8,OK
+md-cambio,31,"General Alvear (+8,63 pp) y Adolfo Alsina",lista de nombres,"['Adolfo Alsina', 'General Alvear']",OK
+md-regiones,37,"(Spearman 0,82)",0.82,0.82,OK
+md-regiones,37,solo 2 regiones,2.0,2.0,OK
+md-regiones,37,"Regiones 15 (4,30 %)",4.3,4.3,OK
+md-regiones,37,"y 16 (3,90 %)",3.9,3.9,OK
+md-regiones,37,"la 16 (3,91 %)",3.91,3.91,OK
+md-regiones,37,"y la 23 (3,40 %)",3.4,3.4,OK
+md-regiones,37,"encabezan las Regiones 15 (4,30 %) y 16","[15, 16]","[15, 16]",OK
+md-regiones,37,"la 16 (3,91 %) y la 23","[16, 23]","[16, 23]",OK
+md-regiones,37,"van de 1,98 %",1.98,1.98,OK
+md-regiones,37,"a 4,30 %",4.3,4.3,OK
+md-cruce-02,43,"(Spearman −0,01",-0.01,-0.01,OK
+md-cruce-02,43,"y 0,09 con el cambio entre extremos",0.09,0.09,OK
+md-cruce-03,47,hubo 111 eventos,111.0,111.0,OK
+md-cruce-03,47,en 63 municipios,63.0,63.0,OK
+md-cruce-03,47,"algo mayor (2,56 %)",2.56,2.56,OK
+md-cruce-03,47,"sin ellos (2,28 %)",2.28,2.28,OK
+md-cruce-03,47,entre los 63,63.0,63.0,OK
+md-cruce-03,47,"(Spearman 0,09)",0.09,0.09,OK
+md-cruce-01,51,"secundario (Spearman −0,01)",-0.01,-0.01,OK
+md-cruce-01,51,"privada (−0,04)",-0.04,-0.04,OK
+md-cruce-01,51,"rural (0,02)",0.02,0.02,OK
+md-casos,52,"bajó de 8,9 %",8.9,8.9,OK
+md-casos,52,"a 2,84 %",2.84,2.84,OK
+md-casos,52,"cerca de 2,8 %",2.8,2.8,OK
+md-casos,52,generalizada**: 112,112.0,112.0,OK
+md-casos,52,"(General Alvear, +8,63 pp)",8.63,8.63,OK
+md-casos,52,"(Hipólito Yrigoyen, Carlos Tejedor)",lista de nombres,"['Carlos Tejedor', 'Hipólito Yrigoyen']",OK
+md-casos,52,"por debajo de 0,1",0.1,0.1,OK
+md-casos,52,"(0,4 % provincial",0.4,0.4,OK
+md-casos,52,solo en 2,2.0,2.0,OK

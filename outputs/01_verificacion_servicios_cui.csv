@@ -1,0 +1,385 @@
+﻿nivel,establecimiento_id,establecimiento_nombre,municipio_nombre,cui,matricula,establecimientos_mismo_cui,matricula_mismo_cui,comparte_cui,servicio_supera_edificio
+Educación Física (C.E.F.),77,"CENTRO DE EDUCACIÓN FÍSICA Nº 2 ""MAESTRO ISAURO ARANCIBIA""",La Plata,600101227,3488,,,False,
+Educación Física (C.E.F.),315,"CENTRO DE EDUCACIÓN FÍSICA Nº28 ""CACIQUE CALFUCURÁ""",Adolfo Alsina,600200090,716,,,False,
+Educación Física (C.E.F.),370,CENTRO DE EDUCACIÓN FÍSICA Nº68,Alberti,600300072,613,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),405,"CENTRO EDUCATIVO COMPLEMENTARIO Nº1 ""ANDRÉS VACCAREZZA""",Alberti,600300017,119,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),406,"CENTRO EDUCATIVO COMPLEMENTARIO Nº2 ""EL PRINCIPITO""",Alberti,600300334,62,1.0,5,True,True
+Educación Física (C.E.F.),459,"CENTRO DE EDUCACIÓN FÍSICA Nº 56 ""MIGUEL SANCHEZ""",Almirante Brown,600400615,2353,3.0,1414,True,True
+Psicología Comunitaria y Pedagogía Social (C.E.C),597,"CENTRO EDUCATIVO COMPLEMENTARIO Nº1  ""LOLA MORA""",Almirante Brown,600402012,173,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),598,"CENTRO EDUCATIVO COMPLEMENTARIO Nº2 ""ABRIENDO CAMINOS""",Almirante Brown,600402020,127,,,False,
+Educación Física (C.E.F.),633,"CENTRO DE EDUCACIÓN FÍSICA Nº71 ""RAMÓN CARRILLO""",Avellaneda,600500492,586,2.0,949,True,False
+Educación Física (C.E.F.),769,"CENTRO DE EDUCACIÓN FÍSICA Nº32 ""JORGE ALBERTO LAVAYEN""",Ayacucho,600600075,1203,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),828,CENTRO EDUCATIVO COMPLEMENTARIO Nº1,Ayacucho,600600496,117,2.0,46,True,True
+Educación Física (C.E.F.),847,"CENTRO DE EDUCACIÓN FÍSICA Nº35 ""2 DE ABRIL""",Azul,600700193,1448,2.0,142,True,True
+Educación Física (C.E.F.),848,"CENTRO DE EDUCACIÓN FÍSICA Nº97 ""LUIS TETTAMANTI""",Azul,600700206,356,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),940,"CENTRO EDUCATIVO COMPLEMENTARIO Nº1 ""MARIANO FALOMIR""",Azul,600700851,130,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),941,"CENTRO EDUCATIVO COMPLEMENTARIO Nº2 ""MI PEQUEÑO MUNDO""",Azul,600700867,103,,,False,
+Educación Física (C.E.F.),987,CENTRO DE EDUCACIÓN FÍSICA Nº46,Bahía Blanca,600800583,509,,,False,
+Educación Física (C.E.F.),988,CENTRO DE EDUCACIÓN FÍSICA Nº47,Bahía Blanca,600801414,709,2.0,689,True,True
+Educación Física (C.E.F.),989,CENTRO DE EDUCACIÓN FÍSICA Nº49,Bahía Blanca,600800605,650,,,False,
+Educación Física (C.E.F.),990,CENTRO DE EDUCACIÓN FÍSICA Nº125,Bahía Blanca,600800130,836,4.0,700,True,True
+Psicología Comunitaria y Pedagogía Social (C.E.C),1146,CENTRO EDUCATIVO COMPLEMENTARIO Nº1,Bahía Blanca,600801915,121,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),1229,"CENTRO EDUCATIVO COMPLEMENTARIO Nº1 ""MARÍA ELENA WALSH""",Balcarce,600900650,155,,,False,
+Educación Física (C.E.F.),1235,CENTRO DE EDUCACIÓN FÍSICA Nº39,Baradero,601000116,566,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),1278,"CENTRO EDUCATIVO COMPLEMENTARIO Nº1 ""EL PUENTE""",Baradero,601000429,186,,,False,
+Educación Física (C.E.F.),1284,"CENTRO DE EDUCACIÓN FÍSICA Nº 84 ""RUBÉN LUIS DI PALMA""",Arrecifes,601100064,415,2.0,714,True,False
+Psicología Comunitaria y Pedagogía Social (C.E.C),1325,"CENTRO EDUCATIVO COMPLEMENTARIO Nº1 ""RAYITO DE LUZ""",Arrecifes,601100375,214,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),1326,"CENTRO EDUCATIVO COMPLEMENTARIO Nº2 ""EL ROBLE""",Arrecifes,601100381,142,,,False,
+Educación Física (C.E.F.),1336,"CENTRO DE EDUCACIÓN FÍSICA Nº5 ""CELESTINO SARRAUA""",Bolívar,601200843,1300,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),1410,CENTRO EDUCATIVO COMPLEMENTARIO Nº1,Bolívar,601200858,183,1.0,56,True,True
+Psicología Comunitaria y Pedagogía Social (C.E.C),1411,"CENTRO EDUCATIVO COMPLEMENTARIO Nº2 ""MARÍA ELENA TREMOUILLES DE DEMARCHI""",Bolívar,601200610,183,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),1412,CENTRO EDUCATIVO COMPLEMENTARIO Nº3,Bolívar,601200623,110,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),1413,"CENTRO EDUCATIVO COMPLEMENTARIO Nº 4 ""ÁNGEL FORNIS""",Bolívar,601200634,169,,,False,
+Educación Física (C.E.F.),1422,CENTRO DE EDUCACIÓN FÍSICA Nº59,Bragado,601300095,999,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),1483,"CENTRO EDUCATIVO COMPLEMENTARIO Nº1 ""EL OMBÚ""",Bragado,601300510,212,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),1484,"CENTRO EDUCATIVO COMPLEMENTARIO Nº2 ""ESTELA NAVEIRA""",Bragado,601300736,153,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),1529,"CENTRO EDUCATIVO COMPLEMENTARIO Nº1 ""MERCEDES DANIELA RODRÍGUEZ DE LÓPEZ SECO""",Brandsen,601400361,253,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),1530,"CENTRO EDUCATIVO COMPLEMENTARIO Nº2 ""UN RINCÓN PARA LOS NIÑOS""",Brandsen,601400134,172,,,False,
+Educación Física (C.E.F.),1545,CENTRO DE EDUCACIÓN FÍSICA Nº90,Campana,601501022,807,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),1609,"CENTRO EDUCATIVO COMPLEMENTARIO Nº1 ""BARRIO SAN FELIPE""",Campana,601500757,102,,,False,
+Educación Física (C.E.F.),1617,"CENTRO DE EDUCACIÓN FÍSICA Nº 53 ""PROF. HUGO ROGELIO BLASCO""",Cañuelas,601600094,622,,,False,
+Educación Física (C.E.F.),1682,"CENTRO DE EDUCACIÓN FÍSICA Nº11 ""CARLOS CASARES""",Carlos Casares,601700107,644,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),1732,"CENTRO EDUCATIVO COMPLEMENTARIO Nº1 ""GRISELDA BOTTI""",Carlos Casares,601700447,186,,,False,
+Educación Física (C.E.F.),1740,"CENTRO DE EDUCACIÓN FÍSICA Nº33 ""JUAN ARTURO MERLOTTI""",Carlos Tejedor,601800091,1372,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),1787,"CENTRO EDUCATIVO COMPLEMENTARIO Nº1 ""EL NIDO""",Carlos Tejedor,601800378,154,,,False,
+Educación Física (C.E.F.),1791,"CENTRO DE EDUCACIÓN FÍSICA Nº10 ""ANALÍA ROJAS""",Carmen de Areco,601900071,719,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),1823,"CENTRO EDUCATIVO COMPLEMENTARIO Nº1 ""NORA TORRES DE TRAPAGA""",Carmen de Areco,601900346,140,,,False,
+Educación Física (C.E.F.),1827,"CENTRO DE EDUCACIÓN FÍSICA Nº23 ""8 DE OCTUBRE""",Daireaux,602000028,563,2.0,398,True,True
+Psicología Comunitaria y Pedagogía Social (C.E.C),1867,"CENTRO EDUCATIVO COMPLEMENTARIO N°1 ""SUSANA REINA DEL SOLER""",Daireaux,602000333,188,,,False,
+Educación Física (C.E.F.),1901,"CENTRO DE EDUCACIÓN FÍSICA Nº82 ""29 DE NOVIEMBRE""",Colón,602200076,594,,,False,
+Educación Física (C.E.F.),1935,"CENTRO DE EDUCACIÓN FÍSICA Nº 64 ""ORIENTE""",Coronel Dorrego,602300078,643,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),1982,"CENTRO EDUCATIVO COMPLEMENTARIO Nº1 ""CLEMENTINA VILLAMAYOR""",Coronel Dorrego,602300327,108,,,False,
+Educación Física (C.E.F.),1989,CENTRO DE EDUCACIÓN FÍSICA Nº25,Coronel Pringles,602400079,818,,,False,
+Educación Física (C.E.F.),2048,CENTRO DE EDUCACIÓN FÍSICA Nº70,Coronel Suárez,602500134,565,3.0,248,True,True
+Psicología Comunitaria y Pedagogía Social (C.E.C),2120,"CENTRO EDUCATIVO COMPLEMENTARIO Nº1 ""MALVINAS ARGENTINAS""",Coronel Suárez,602500582,191,,,False,
+Educación Física (C.E.F.),2129,CENTRO DE EDUCACIÓN FÍSICA Nº20,Chacabuco,602600101,1441,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),2197,"CENTRO EDUCATIVO COMPLEMENTARIO Nº1 ""ENCUENTRO FELIZ""",Chacabuco,602600635,100,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),2283,"CENTRO EDUCATIVO COMPLEMENTARIO Nº1 ""MI NIDITO""",Lezama,613700179,162,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),2284,"CENTRO EDUCATIVO COMPLEMENTARIO Nº2 ""29 DE SEPTIEMBRE""",Chascomús,602700215,82,3.0,217,True,False
+Educación Física (C.E.F.),2296,CENTRO DE EDUCACIÓN FÍSICA Nº12,Chivilcoy,602800157,1251,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),2385,"CENTRO EDUCATIVO COMPLEMENTARIO Nº1 ""IGNACIO COLIQUEO""",Chivilcoy,602800784,165,,,False,
+Educación Física (C.E.F.),2473,CENTRO DE EDUCACIÓN FÍSICA Nº88,Ezeiza,613000174,834,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),2582,"CENTRO EDUCATIVO COMPLEMENTARIO Nº2 ""JOSÉ MARÍA EZEIZA""",Ezeiza,613000713,185,,,False,
+Educación Física (C.E.F.),2642,CENTRO DE EDUCACIÓN FÍSICA Nº102,Florencio Varela,603202424,1309,,,False,
+Educación Física (C.E.F.),2756,CENTRO DE EDUCACIÓN FÍSICA Nº75,General Alvarado,603300139,894,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),2796,"CENTRO EDUCATIVO COMPLEMENTARIO Nº1 ""BENITO QUINQUELA MARTÍN""",General Alvarado,603300426,122,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),2797,"CENTRO EDUCATIVO COMPLEMENTARIO Nº2 ""LUCIA CASTRO""",General Alvarado,603300435,108,,,False,
+Educación Física (C.E.F.),2800,CENTRO DE EDUCACIÓN FÍSICA Nº36,General Alvear,603400062,672,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),2838,"CENTRO EDUCATIVO COMPLEMENTARIO Nº1 ""FORTÍN ESPERANZA""",General Alvear,603400397,179,,,False,
+Educación Física (C.E.F.),2843,CENTRO DE EDUCACIÓN FÍSICA N°57,General Arenales,603500072,1029,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),2875,"CENTRO EDUCATIVO COMPLEMENTARIO Nº1 ""RAYITO DE SOL""",General Arenales,603500254,162,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),2876,"CENTRO EDUCATIVO COMPLEMENTARIO Nº2 ""HERMANA LUCÍA""",General Arenales,603500265,182,,,False,
+Educación Física (C.E.F.),2879,"CENTRO DE EDUCACIÓN FÍSICA Nº74 ""ESTEBAN MARCELO""",General Belgrano,603600051,1117,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),2910,"CENTRO EDUCATIVO COMPLEMENTARIO Nº1 ""MANOS ABIERTAS""",General Belgrano,603600288,123,,,False,
+Educación Física (C.E.F.),2935,"CENTRO DE EDUCACIÓN FÍSICA Nº66 ""DR. RENÉ FAVALORO""",General La Madrid,603800422,850,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),2972,"CENTRO EDUCATIVO COMPLEMENTARIO Nº1 ""ANDRÉS LÓPEZ OSORNIO""",General La Madrid,603800326,190,,,False,
+Educación Física (C.E.F.),2975,"CENTRO DE EDUCACIÓN FÍSICA Nº116 ""JOSÉ MANUEL MORENO""",General Lavalle,603900263,502,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),2999,"CENTRO EDUCATIVO COMPLEMENTARIO Nº1 ""HUELLAS DE AJO""",General Lavalle,603900179,195,,,False,
+Educación Física (C.E.F.),3006,"CENTRO DE EDUCACIÓN FÍSICA Nº29 ""SANTIAGO CIMOS""",General Juan Madariaga,604000494,656,,,False,
+Educación Física (C.E.F.),3089,"CENTRO DE EDUCACIÓN FÍSICA Nº58 ""PROF. ERNESTO FIORINI""",General Pinto,604200081,1321,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),3122,"CENTRO EDUCATIVO COMPLEMENTARIO Nº1 ""ELVA SUSANA PERALTA""",General Pinto,604200301,180,,,False,
+Educación Física (C.E.F.),3186,CENTRO DE EDUCACIÓN FÍSICA Nº1,General Pueyrredón,604300887,4629,1.0,1096,True,True
+Psicología Comunitaria y Pedagogía Social (C.E.C),3327,CENTRO EDUCATIVO COMPLEMENTARIO Nº1,General Pueyrredón,604302141,228,2.0,494,True,False
+Educación Física (C.E.F.),3338,CENTRO DE EDUCACIÓN FÍSICA Nº78,General Rodríguez,604400169,912,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),3385,CENTRO EDUCATIVO COMPLEMENTARIO Nº1,General Rodríguez,604400176,295,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),3559,"CENTRO EDUCATIVO COMPLEMENTARIO Nº1 ""JOSÉ HERNÁNDEZ""",General San Martín,604501317,203,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),3560,"CENTRO EDUCATIVO COMPLEMENTARIO Nº2 ""SAN AGUSTÍN""",General San Martín,604501329,189,,,False,
+Educación Física (C.E.F.),3607,"CENTRO DE EDUCACIÓN FÍSICA Nº91 ""HÉCTOR ARREGUI""",José C. Paz,"613200217,613200785,613200123,613200168",1121,,,False,
+Educación Física (C.E.F.),3815,"CENTRO DE EDUCACIÓN FÍSICA Nº61 ""PROF. DOMINGO BADALAMENTI""",Zárate,604700131,1124,3.0,1566,True,False
+Psicología Comunitaria y Pedagogía Social (C.E.C),3885,"CENTRO EDUCATIVO COMPLEMENTARIO N°1 ""WOLF SCHCOLNIK""",Zárate,604700675,120,,,False,
+Educación Física (C.E.F.),3890,CENTRO DE EDUCACIÓN FÍSICA Nº94,General Viamonte,604800071,1634,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),3933,"CENTRO EDUCATIVO COMPLEMENTARIO Nº1 ""PANAMBÍ""",General Viamonte,604800282,181,,,False,
+Educación Física (C.E.F.),3939,"CENTRO DE EDUCACIÓN FÍSICA Nº52 ""ALFONSO WESNER""",General Villegas,604900038,1365,3.0,904,True,True
+Psicología Comunitaria y Pedagogía Social (C.E.C),4014,"CENTRO EDUCATIVO COMPLEMENTARIO Nº1 ""RENÉ FAVALORO""",General Villegas,604900600,126,,,False,
+Educación Física (C.E.F.),4017,CENTRO DE EDUCACIÓN FÍSICA Nº38,Adolfo Gonzales Chaves,605000076,836,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),4052,"CENTRO EDUCATIVO COMPLEMENTARIO Nº1 ""NORMA PRANDINI""",Adolfo Gonzales Chaves,605000318,133,,,False,
+Educación Física (C.E.F.),4058,CENTRO DE EDUCACIÓN FÍSICA Nº104,Guaminí,605100084,316,,,False,
+Educación Física (C.E.F.),4108,CENTRO DE EDUCACIÓN FÍSICA Nº50,Benito Juárez,605200037,1124,2.0,330,True,True
+Educación Física (C.E.F.),4109,CENTRO DE EDUCACIÓN FÍSICA Nº115,Benito Juárez,605200346,547,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),4142,"CENTRO EDUCATIVO COMPLEMENTARIO Nº1 ""MARÍA ISABEL LUJÁN DE MARINI""",Benito Juárez,605200322,171,,,False,
+Educación Física (C.E.F.),4163,"CENTRO DE EDUCACIÓN FÍSICA N°55 ""PROF. JOSÉ FERNÁNDEZ""",Junín,605300233,1146,,,False,
+Educación Física (C.E.F.),4164,"CENTRO DE EDUCACIÓN FÍSICA Nº126 ""PROF. EDGAR CALVO""",Junín,605300246,1033,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),4244,"CENTRO EDUCATIVO COMPLEMENTARIO Nº 1 ""HOGAR FELIZ: MARÍA ELENA WALSH""",Junín,605300752,180,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),4245,"CENTRO EDUCATIVO COMPLEMENTARIO Nº2 ""20 DE NOVIEMBRE""",Junín,605300768,130,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),4246,"CENTRO EDUCATIVO COMPLEMENTARIO Nº3 ""EL SAUCE""",Junín,605300775,149,,,False,
+Educación Física (C.E.F.),4249,CENTRO DE EDUCACIÓN FÍSICA Nº8,Laprida,605400073,490,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),4277,"CENTRO EDUCATIVO COMPLEMENTARIO Nº1 ""DON BOSCO""",Laprida,605400115,153,,,False,
+Educación Física (C.E.F.),4300,CENTRO DE EDUCACIÓN FÍSICA Nº89,Tigre,605500456,853,,,False,
+Educación Física (C.E.F.),4412,"CENTRO DE EDUCACIÓN FÍSICA Nº6 ""ORESTE PROPATO""",Las Flores,605600096,2109,,,False,
+Educación Física (C.E.F.),4472,"CENTRO DE EDUCACIÓN FÍSICA Nº80 ""FERNANDO RISO""",General Las Heras,605700055,719,,,False,
+Educación Física (C.E.F.),4506,"CENTRO DE EDUCACIÓN FÍSICA Nº51 ""DR. RENÉ FAVALORO""",Leandro N. Alem,605800109,1102,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),4540,"CENTRO EDUCATIVO COMPLEMENTARIO Nº1 ""PEDRO ALVELO""",Leandro N. Alem,605800338,47,1.0,82,True,False
+Educación Física (C.E.F.),4555,CENTRO DE EDUCACIÓN FÍSICA Nº16,Lincoln,605900131,2024,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),4634,CENTRO EDUCATIVO COMPLEMENTARIO Nº1,Lincoln,605900675,207,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),4635,CENTRO EDUCATIVO COMPLEMENTARIO Nº2,Lincoln,605900681,155,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),4636,CENTRO EDUCATIVO COMPLEMENTARIO Nº3,Lincoln,605900699,230,,,False,
+Educación Física (C.E.F.),4644,"CENTRO DE EDUCACIÓN FÍSICA Nº43 ""PROFESOR HUGO CESAR RODRIGUEZ""",Lobería,606000094,1302,,,False,
+Educación Física (C.E.F.),4707,CENTRO DE EDUCACIÓN FÍSICA N°105,Lobos,606100765,723,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),4764,"CENTRO EDUCATIVO COMPLEMENTARIO Nº1 ""MATÍAS DE IRIGOYEN Y DE LA QUINTANA""",Lobos,606100540,155,,,False,
+Educación Física (C.E.F.),4809,"CENTRO DE EDUCACIÓN FÍSICA Nº86  ""CLAUDIO ALEJANDRO VERA""",Lomas de Zamora,606200698,504,2.0,972,True,False
+Psicología Comunitaria y Pedagogía Social (C.E.C),4981,CENTRO EDUCATIVO COMPLEMENTARIO Nº1,Lomas de Zamora,606201936,156,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),4982,"CENTRO EDUCATIVO COMPLEMENTARIO Nº2 ""LIBERTADOR GENERAL SAN MARTÍN""",Lomas de Zamora,606200176,233,3.0,537,True,False
+Psicología Comunitaria y Pedagogía Social (C.E.C),4983,"CENTRO EDUCATIVO COMPLEMENTARIO Nº3 ""MARTÍN FIERRO""",Lomas de Zamora,606204248,175,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),4984,"CENTRO EDUCATIVO COMPLEMENTARIO Nº4 ""HÉROES DE MALVINAS""",Lomas de Zamora,606201943,244,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),4985,"CENTRO EDUCATIVO COMPLEMENTARIO N°5 ""OSVALDO CALEGARI""",Lomas de Zamora,606201958,277,,,False,
+Educación Física (C.E.F.),4997,CENTRO DE EDUCACIÓN FÍSICA Nº27,Luján,606300150,848,1.0,425,True,True
+Educación Física (C.E.F.),4998,CENTRO DE EDUCACIÓN FÍSICA Nº73,Luján,606300166,706,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),5077,"CENTRO EDUCATIVO COMPLEMENTARIO Nº1 ""VILLA DE LUJÁN""",Luján,606300505,134,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),5153,"CENTRO EDUCATIVO COMPLEMENTARIO Nº1 ""DICIEMBRE DE 1983""",Magdalena,606400387,75,,,False,
+Educación Física (C.E.F.),5158,"CENTRO DE EDUCACIÓN FÍSICA Nº108 ""RENÉ FAVALORO""",Maipú,606500079,402,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),5186,"CENTRO EDUCATIVO COMPLEMENTARIO Nº 1 ""LUZ DE ESPERANZA""",Maipú,606500046,166,4.0,449,True,False
+Psicología Comunitaria y Pedagogía Social (C.E.C),5231,"CENTRO EDUCATIVO COMPLEMENTARIO Nº1 ""HOGAR DEL NIÑO""",Salto,606600352,198,,,False,
+Educación Física (C.E.F.),5239,"CENTRO DE EDUCACIÓN FÍSICA Nº 31 ""ALDO MARIO BÓBBERA""",Marcos Paz,606700123,1804,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),5271,"CENTRO EDUCATIVO COMPLEMENTARIO Nº1 ""JACARANDÁ""",Marcos Paz,606700446,189,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),5322,CENTRO EDUCATIVO COMPLEMENTARIO Nº1,Mar Chiquita,606800455,156,,,False,
+Educación Física (C.E.F.),5402,CENTRO DE EDUCACIÓN FÍSICA Nº3,La Matanza,606901731,2078,,,False,
+Educación Física (C.E.F.),5403,CENTRO DE EDUCACIÓN FÍSICA Nº69,La Matanza,606901749,2264,,,False,
+Educación Física (C.E.F.),5404,"CENTRO DE EDUCACIÓN FÍSICA Nº112 ""J. M. DE ROSAS""",La Matanza,606901754,1253,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),5742,"CENTRO EDUCATIVO COMPLEMENTARIO Nº 1 ""GRACIELA CABAL""",La Matanza,606908166,140,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),5743,"CENTRO EDUCATIVO COMPLEMENTARIO Nº2 ""QUERANDIES""",La Matanza,606902179,225,3.0,778,True,False
+Educación Física (C.E.F.),5756,CENTRO DE EDUCACIÓN FÍSICA Nº40,Mercedes,607000168,1500,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),5823,"CENTRO EDUCATIVO COMPLEMENTARIO Nº 1 ""RENÉ FAVALORO""",Mercedes,607000582,130,,,False,
+Educación Física (C.E.F.),5852,"CENTRO DE EDUCACIÓN FÍSICA Nº96 ""DEPORTIVO FERRARI""",Merlo,607100532,1080,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),5993,CENTRO EDUCATIVO COMPLEMENTARIO Nº1,Merlo,607102002,319,,,False,
+Educación Física (C.E.F.),5997,CENTRO DE EDUCACIÓN FÍSICA Nº114,Monte,607200064,642,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),6215,CENTRO EDUCATIVO COMPLEMENTARIO Nº1,Moreno,607302069,189,,,False,
+Educación Física (C.E.F.),6220,CENTRO DE EDUCACIÓN FÍSICA Nº65,Navarro,607400504,438,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),6263,"CENTRO EDUCATIVO COMPLEMENTARIO Nº1 ""JUSTO GERMÁN MOLL GARAT""",Navarro,607400438,127,,,False,
+Educación Física (C.E.F.),6283,CENTRO DE EDUCACIÓN FÍSICA Nº17,Necochea,607500187,987,,,False,
+Educación Física (C.E.F.),6284,"CENTRO DE EDUCACIÓN FÍSICA Nº 63 ""PEDRO ARTURO RASMUSSEN""",Necochea,607500194,1158,,,False,
+Educación Física (C.E.F.),6285,"CENTRO DE EDUCACIÓN FÍSICA Nº 76 ""KEM KEM""",Necochea,607500207,1548,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),6371,"CENTRO EDUCATIVO COMPLEMENTARIO Nº 1 ""JUANA AZURDUY""",Necochea,607500777,190,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),6372,"CENTRO EDUCATIVO COMPLEMENTARIO Nº 3 ""FARO DE QUEQUEN""",Necochea,607500783,133,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),6373,"CENTRO EDUCATIVO COMPLEMENTARIO Nº2 ""MAGNOLIA DEL NORTE""",Necochea,607500796,139,,,False,
+Educación Física (C.E.F.),6384,CENTRO DE EDUCACIÓN FÍSICA Nº101,9 de Julio,607600928,2835,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),6466,"CENTRO EDUCATIVO COMPLEMENTARIO Nº1 ""PIBELANDIA""",9 de Julio,607600667,132,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),6467,"CENTRO EDUCATIVO COMPLEMENTARIO Nº2 ""RAYUELA""",9 de Julio,607600679,141,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),6468,CENTRO EDUCATIVO COMPLEMENTARIO Nº3,9 de Julio,607600680,86,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),6469,"CENTRO EDUCATIVO COMPLEMENTARIO Nº4 ""BARRILETE""",9 de Julio,607600698,141,,,False,
+Educación Física (C.E.F.),6491,"CENTRO DE EDUCACIÓN FÍSICA Nº 44 ""OSCAR RAÚL LANDONI""",Olavarría,"607701821,607701185",1441,,,False,
+Educación Física (C.E.F.),6492,CENTRO DE EDUCACIÓN FÍSICA Nº100,Olavarría,607700307,1649,,,False,
+Educación Física (C.E.F.),6493,CENTRO DE EDUCACIÓN FÍSICA Nº124,Olavarría,607701878,1397,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),6620,"CENTRO EDUCATIVO COMPLEMENTARIO Nº1 ""EL PROVINCIAL""",Olavarría,607701799,167,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),6621,"CENTRO EDUCATIVO COMPLEMENTARIO Nº2 ""ENCONTRAR-NOS""",Olavarría,607701308,117,1.0,42,True,True
+Psicología Comunitaria y Pedagogía Social (C.E.C),6622,"CENTRO EDUCATIVO COMPLEMENTARIO Nº3 ""CARLOS CAMPOLONGHI""",Olavarría,607701312,116,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),6623,"CENTRO EDUCATIVO COMPLEMENTARIO Nº 4 ""EL TRIUNFO""",Olavarría,607701320,138,1.0,26,True,True
+Psicología Comunitaria y Pedagogía Social (C.E.C),6698,CENTRO EDUCATIVO COMPLEMENTARIO Nº1,Patagones,607800620,200,,,False,
+Educación Física (C.E.F.),6716,"CENTRO DE EDUCACIÓN FÍSICA Nº13 ""JORGE FARABOLLINI""",Pehuajó,607900145,1270,4.0,966,True,True
+Psicología Comunitaria y Pedagogía Social (C.E.C),6795,"CENTRO EDUCATIVO COMPLEMENTARIO N°1 ""FERNANDO ALONSO""",Pehuajó,607900726,160,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),6796,"CENTRO EDUCATIVO COMPLEMENTARIO Nº2 ""HEROÍNAS DE MALVINAS""",Pehuajó,607900735,105,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),6797,"CENTRO EDUCATIVO COMPLEMENTARIO N°3 ""SOLDADOS LAPORTE Y MENDIETA""",Pehuajó,607900742,90,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),6798,"CENTRO EDUCATIVO COMPLEMENTARIO N°4 ""RAYITO DE SOL""",Pehuajó,607900757,80,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),6819,"CENTRO EDUCATIVO COMPLEMENTARIO Nº1 ""OSVALDO JUAN RICCI""",Pellegrini,608000150,202,,,False,
+Educación Física (C.E.F.),6840,"CENTRO DE EDUCACIÓN FÍSICA Nº 79 ""VILLA ANGÉLICA""",Pergamino,608100217,160,,,False,
+Educación Física (C.E.F.),6841,"CENTRO DE EDUCACIÓN FÍSICA Nº99 ""BARRIO OBRERO""",Pergamino,608100229,271,1.0,388,True,False
+Psicología Comunitaria y Pedagogía Social (C.E.C),6937,"CENTRO EDUCATIVO COMPLEMENTARIO Nº 1 ""MI CASA""",Pergamino,608100175,157,1.0,42,True,True
+Psicología Comunitaria y Pedagogía Social (C.E.C),6938,"CENTRO EDUCATIVO COMPLEMENTARIO N° 2 ""HOGAR FELÍZ""",Pergamino,608100887,203,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),6939,"CENTRO EDUCATIVO COMPLEMENTARIO Nº3 ""DR. JULIO ISIDRO MAIZTEGUI""",Pergamino,608100894,76,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),6969,"CENTRO EDUCATIVO COMPLEMENTARIO Nº1 ""MARÍA GOITI""",Pila,608200247,169,1.0,75,True,True
+Educación Física (C.E.F.),6981,CENTRO DE EDUCACIÓN FÍSICA Nº98,Pilar,608300213,857,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),7044,"CENTRO EDUCATIVO COMPLEMENTARIO Nº 1 ""HUGO MAXIMILIANO MINYERSKY""",Pilar,608301116,188,,,False,
+Educación Física (C.E.F.),7051,"CENTRO DE EDUCACIÓN FÍSICA Nº103 ""PROF. RUBÉN DARÍO HERNÁNDEZ""",Puán,608400093,405,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),7096,"CENTRO EDUCATIVO COMPLEMENTARIO N°1 ""GENERAL MARTÍN MIGUEL DE GÜEMES""",Puán,608400352,74,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),7097,"CENTRO EDUCATIVO COMPLEMENTARIO N°2 ""DR. JOSÉ DARREGUEIRA""",Puán,608400368,221,,,False,
+Educación Física (C.E.F.),7139,CENTRO DE EDUCACIÓN FÍSICA Nº95,Quilmes,608500570,792,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),7319,"CENTRO EDUCATIVO COMPLEMENTARIO Nº1 ""ISABEL PALLAMAY""",Quilmes,608502010,193,,,False,
+Educación Física (C.E.F.),7329,CENTRO DE EDUCACIÓN FÍSICA Nº60,Ramallo,608600122,765,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),7370,"CENTRO EDUCATIVO COMPLEMENTARIO Nº1 ""RENÉ FAVALORO""",Ramallo,608600466,119,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),7371,"CENTRO EDUCATIVO COMPLEMENTARIO Nº2 ""PLACIDO SPEZIALE""",Ramallo,608600478,197,,,False,
+Educación Física (C.E.F.),7377,"CENTRO DE EDUCACIÓN FÍSICA Nº111 ""PROF. MARÍA CAROLINA LASALA""",Rauch,608700063,886,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),7423,CENTRO EDUCATIVO COMPLEMENTARIO Nº1,Rauch,608700351,194,,,False,
+Educación Física (C.E.F.),7429,CENTRO DE EDUCACIÓN FÍSICA Nº45 GUILLERMO MANCHITA VITORES,Rivadavia,608800080,495,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),7463,CENTRO EDUCATIVO COMPLEMENTARIO Nº1,Rivadavia,608800112,186,1.0,218,True,False
+Educación Física (C.E.F.),7471,"CENTRO DE EDUCACIÓN FÍSICA Nº 109 ""PROFESOR JUAN MANUEL BARTOLELLI""",Rojas,608900315,680,1.0,422,True,True
+Psicología Comunitaria y Pedagogía Social (C.E.C),7519,CENTRO EDUCATIVO COMPLEMENTARIO Nº1,Rojas,608900410,173,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),7558,"CENTRO EDUCATIVO COMPLEMENTARIO Nº1 ""PATRICIA ARGENTINA FRANCHELLO""",Roque Pérez,609000038,161,,,False,
+Educación Física (C.E.F.),7564,CENTRO DE EDUCACIÓN FÍSICA Nº83,Saavedra,609100101,1265,,,False,
+Educación Física (C.E.F.),7619,CENTRO DE EDUCACIÓN FÍSICA Nº77,Saladillo,"609200096,609200054,609200175,609200031",773,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),7677,"CENTRO EDUCATIVO COMPLEMENTARIO Nº 1 ""MARÍA ELENA WALSH""",Saladillo,609200020,151,,,False,
+Educación Física (C.E.F.),7681,"CENTRO DE EDUCACIÓN FÍSICA Nº24 ""FEDERICO STUPIELLO""",San Andrés de Giles,609300079,697,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),7729,"CENTRO EDUCATIVO COMPLEMENTARIO Nº1 ""TERESA BALMACEDA DE GALLO""",San Andrés de Giles,609300371,146,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),7763,"CENTRO EDUCATIVO COMPLEMENTARIO Nº1 ""LA HUELLA DE ARECO""",San Antonio de Areco,609400301,235,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),7956,CENTRO EDUCATIVO COMPLEMENTARIO Nº1,San Isidro,609600823,91,,,False,
+Educación Física (C.E.F.),7989,"CENTRO DE EDUCACIÓN FÍSICA Nº 19 ""PROF. CARLOS MARÍA DÍAZ BANCALARI""",San Nicolás,609700413,1373,3.0,680,True,True
+Psicología Comunitaria y Pedagogía Social (C.E.C),8083,"CENTRO EDUCATIVO COMPLEMENTARIO Nº1 ""MARÍA OTILIA MUÑOZ""",San Nicolás,609700105,122,1.0,15,True,True
+Educación Física (C.E.F.),8096,CENTRO DE EDUCACIÓN FÍSICA Nº14,San Pedro,609800191,905,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),8166,"CENTRO EDUCATIVO COMPLEMENTARIO Nº1 ""PREF. NAVAL ARGENTINA""",San Pedro,609800640,172,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),8167,"CENTRO EDUCATIVO COMPLEMENTARIO Nº2 ""EDUARDO DEPIETRI""",San Pedro,609800655,127,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),8168,"CENTRO EDUCATIVO COMPLEMENTARIO Nº3 ""RAFAEL OBLIGADO""",San Pedro,609800664,146,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),8169,"CENTRO EDUCATIVO COMPLEMENTARIO Nº 4 ""COMBATE EL TALA""",San Pedro,609800672,125,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),8170,"CENTRO EDUCATIVO COMPLEMENTARIO Nº5 ""PADRE OSVALDO GUIDI""",San Pedro,609800686,101,,,False,
+Educación Física (C.E.F.),8183,"CENTRO DE EDUCACIÓN FÍSICA N°93 ""JUAN CARLOS ZABALA""",San Vicente,609900116,2457,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),8487,"CENTRO EDUCATIVO COMPLEMENTARIO N°1 ""JOSEFINA ANCESCHI""",Hurlingham,613500701,104,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),8488,"CENTRO EDUCATIVO COMPLEMENTARIO N° 1 ""MELVIN JONES""",Morón,610001220,94,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),8489,"CENTRO EDUCATIVO COMPLEMENTARIO Nº 2 ""TERRITORIO DE PALABRAS""",Morón,610001231,152,,,False,
+Educación Física (C.E.F.),8493,"CENTRO DE EDUCACIÓN FÍSICA Nº30 ""VALERIA MAYOR""",Suipacha,610100074,1600,,,False,
+Educación Física (C.E.F.),8543,CENTRO DE EDUCACIÓN FÍSICA Nº42,Tandil,610200318,2296,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),8645,"CENTRO EDUCATIVO COMPLEMENTARIO Nº 1 ""FACUNDO CABRAL""",Tandil,610201068,128,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),8646,CENTRO EDUCATIVO COMPLEMENTARIO Nº2,Tandil,610201075,144,,,False,
+Educación Física (C.E.F.),8649,"CENTRO DE EDUCACIÓN FÍSICA Nº22 ""JUAN PEDRO LÓPEZ""",Tapalqué,610300050,720,,,False,
+Educación Física (C.E.F.),8707,"CENTRO DE EDUCACIÓN FÍSICA Nº9 ""JULIO A. ROCA""",Tornquist,610500077,731,,,False,
+Educación Física (C.E.F.),8760,"CENTRO DE EDUCACIÓN FÍSICA Nº18 ""HUE CUMELEN""",Trenque Lauquen,610600193,1737,,,False,
+Educación Física (C.E.F.),8761,"CENTRO DE EDUCACIÓN FÍSICA Nº81 ""LUIS ALBERTO CÓRDOBA""",Trenque Lauquen,610600206,503,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),8838,"CENTRO EDUCATIVO COMPLEMENTARIO Nº1 ""AIPIN""",Trenque Lauquen,610600730,170,,,False,
+Educación Física (C.E.F.),8847,CENTRO DE EDUCACIÓN FÍSICA Nº4,Tres Arroyos,610700132,1144,3.0,1077,True,True
+Educación Física (C.E.F.),8848,CENTRO DE EDUCACIÓN FÍSICA Nº113,Tres Arroyos,610700939,450,1.0,90,True,True
+Psicología Comunitaria y Pedagogía Social (C.E.C),8922,"CENTRO EDUCATIVO COMPLEMENTARIO Nº1 ""MARÍA TERESA MACIEL""",Tres Arroyos,610700682,136,,,False,
+Educación Física (C.E.F.),8932,"CENTRO DE EDUCACIÓN FÍSICA Nº 7 ""MARIO MARCELO MALNATI""",25 de Mayo,610800142,1151,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),9013,"CENTRO EDUCATIVO COMPLEMENTARIO N°1 ""DR. DOMINGO LEÓN VARAS""",25 de Mayo,610800721,217,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),9014,"CENTRO EDUCATIVO COMPLEMENTARIO Nº2 ""MARTHA DIEZ""",25 de Mayo,610800055,190,,,False,
+Educación Física (C.E.F.),9103,"CENTRO DE EDUCACIÓN FÍSICA Nº26 ""JUANA AZURDUY""",Villarino,611000114,992,,,False,
+Educación Física (C.E.F.),9104,"CENTRO DE EDUCACIÓN FÍSICA Nº54 ""DR. ENRIQUE ROMERO BREST""",Villarino,611000122,845,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),9341,"CENTRO EDUCATIVO COMPLEMENTARIO Nº1 ""MALVINAS ARGENTINAS""",Lanús,611101390,134,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),9342,"CENTRO EDUCATIVO COMPLEMENTARIO Nº 2 ""GRACIELA MABEL GONZÁLEZ""",Lanús,611101405,118,,,False,
+Educación Física (C.E.F.),9363,CENTRO DE EDUCACIÓN FÍSICA Nº72,Coronel de Marina Leonardo Rosales,611200160,248,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),9425,"CENTRO EDUCATIVO COMPLEMENTARIO Nº 1 ""ISLAS MALVINAS""",Coronel de Marina Leonardo Rosales,611200501,94,,,False,
+Educación Física (C.E.F.),9443,CENTRO DE EDUCACIÓN FÍSICA Nº67,Berisso,611300205,1339,1.0,57,True,True
+Psicología Comunitaria y Pedagogía Social (C.E.C),9492,"CENTRO EDUCATIVO COMPLEMENTARIO N°1 ""MANUEL NICOLÁS SAVIO""",Berisso,611300536,175,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),9493,"CENTRO EDUCATIVO COMPLEMENTARIO Nº 2 ""JUAN BERISSO""",Berisso,611300543,121,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),9494,"CENTRO EDUCATIVO COMPLEMENTARIO Nº 3 ""MARÍA ELENA WALSH""",Berisso,611300558,150,,,False,
+Educación Física (C.E.F.),9507,CENTRO DE EDUCACIÓN FÍSICA Nº62,Ensenada,611400056,1197,2.0,209,True,True
+Psicología Comunitaria y Pedagogía Social (C.E.C),9545,"CENTRO EDUCATIVO COMPLEMENTARIO Nº1 ""DR.RENÉ FAVALORO""",Ensenada,611400444,124,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),9546,"CENTRO EDUCATIVO COMPLEMENTARIO Nº 2 ""MARTHA TERESA SOSA MASSONE""",Ensenada,611400459,207,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),9547,"CENTRO EDUCATIVO COMPLEMENTARIO Nº 3 ""EVA PERÓN""",Ensenada,611400463,160,,,False,
+Educación Física (C.E.F.),9550,"CENTRO DE EDUCACIÓN FÍSICA Nº21 ""CIUDAD DE SAN CAYETANO""",San Cayetano,611500036,791,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),9571,"CENTRO EDUCATIVO COMPLEMENTARIO N°1 ""DON MANUEL MELENDEZ""",San Cayetano,611500206,147,,,False,
+Educación Física (C.E.F.),9588,CENTRO DE EDUCACIÓN FÍSICA N°37,Escobar,611600255,1015,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),9646,"CENTRO EDUCATIVO COMPLEMENTARIO Nº1 ""MARIO KAPLUN""",Escobar,611600839,148,,,False,
+Educación Física (C.E.F.),9670,"CENTRO DE EDUCACIÓN FÍSICA Nº123 ""JORGE NEWBERY""",Tres de Febrero,611700334,3335,1.0,108,True,True
+Educación Física (C.E.F.),9775,"CENTRO DE EDUCACIÓN FÍSICA Nº 117 ""MARÍA TERESA ANDRÉS PÉREZ ""MARITÉ SOLER""""",Hipólito Yrigoyen,611800075,321,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),9796,"CENTRO EDUCATIVO COMPLEMENTARIO Nº1 JORGE ""JORGITO"" MERINO",Hipólito Yrigoyen,611800215,172,,,False,
+Educación Física (C.E.F.),9819,CENTRO DE EDUCACIÓN FÍSICA Nº85,Berazategui,611900328,1215,2.0,796,True,True
+Psicología Comunitaria y Pedagogía Social (C.E.C),9927,CENTRO EDUCATIVO COMPLEMENTARIO Nº1,Berazategui,611901304,90,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),9928,"CENTRO EDUCATIVO COMPLEMENTARIO Nº2 ""DR. JUAN GRECO""",Berazategui,611901315,107,,,False,
+Educación Física (C.E.F.),9931,"CENTRO DE EDUCACIÓN FÍSICA Nº15 ""JUAN CARLOS RUIZ""",Salliqueló,612000080,621,4.0,611,True,True
+Educación Física (C.E.F.),9932,CENTRO DE EDUCACIÓN FÍSICA Nº15 - ANEXO,Salliqueló,612000067,89,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),9953,"CENTRO EDUCATIVO COMPLEMENTARIO Nº1 ""JULIO CÉSAR CÓRDOBA""",Salliqueló,612000196,152,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),9980,"CENTRO EDUCATIVO COMPLEMENTARIO Nº1 ""MADRE TERESA DE CALCUTA""",Capitán Sarmiento,612100228,255,,,False,
+Educación Física (C.E.F.),10031,"CENTRO DE EDUCACIÓN FÍSICA Nº87 ""BENITO DURANTE""",Pinamar,612400346,671,3.0,686,True,False
+Educación Física (C.E.F.),10077,CENTRO DE EDUCACIÓN FÍSICA Nº48,Tres Lomas,612700058,616,3.0,890,True,False
+Psicología Comunitaria y Pedagogía Social (C.E.C),10097,"CENTRO EDUCATIVO COMPLEMENTARIO Nº1 ""TRES LOMAS""",Tres Lomas,612700186,180,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),10179,"C.E.C. ""FLORENCIO VARELA""",Chivilcoy,602800824,216,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),12121,C.E.C. NUESTRA SEÑORA DEL VALLE,Tigre,605502198,240,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),12741,"CENTRO EDUCATIVO COMPLEMENTARIO ""EL COLMENAR""",La Matanza,606905287,200,3.0,1595,True,False
+Educación Física (C.E.F.),13039,CENTRO DE EDUCACIÓN FÍSICA SAN ANTONIO DE PADUA,Olavarría,607700330,195,4.0,1432,True,False
+Psicología Comunitaria y Pedagogía Social (C.E.C),14328,C.E.C. Nº2756,Vicente López,610901100,191,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),15119,CENTRO EDUCATIVO COMPLEMENTARIO HOGAR DEL NIÑO PADRE ZANOCCHI,San Fernando,609501031,116,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),15127,CENTRO EDUCATIVO COMPLEMENTARIO SAN ANTONIO DEF. DE LOS POBRES,Tigre,605501966,149,,,False,
+Educación Física (C.E.F.),16063,"CENTRO DE EDUCACIÓN FÍSICA Nº 118 ""HIGINIO LUCARONI""",Roque Pérez,609000055,722,,,False,
+Educación Física (C.E.F.),16441,CENTRO DE EDUCACIÓN FÍSICA Nº41,Pellegrini,608000047,878,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),16479,"CENTRO EDUCATIVO COMPLEMENTARIO Nº 1 ""UN LUGAR PARA MI""",Tres de Febrero,611701056,90,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),17417,"CENTRO EDUCATIVO COMPLEMENTARIO Nº 1 ""DR. HÉCTOR SOSA""",Guaminí,605100358,181,,,False,
+Educación Física (C.E.F.),17466,CENTRO DE EDUCACIÓN FÍSICA Nº138,Marcos Paz,606700134,377,,,False,
+Educación Física (C.E.F.),18205,"CENTRO DE EDUCACIÓN FÍSICA Nº 128 ""PROFESOR FLAVIO CÉSAR ANTUNEZ""",Florentino Ameghino,612800066,682,,,False,
+Educación Física (C.E.F.),18344,"CENTRO DE EDUCACIÓN FÍSICA Nº142 ""CENTRO DE VIDA EN LA NATURA""",Esteban Echeverría,603000315,338,3.0,1977,True,False
+Educación Física (C.E.F.),18345,CENTRO DE EDUCACIÓN FÍSICA Nº134,Salto,606600491,561,,,False,
+Educación Física (C.E.F.),18346,CENTRO DE EDUCACIÓN FÍSICA Nº129,Guaminí,605100097,290,,,False,
+Educación Física (C.E.F.),18347,"CENTRO DE EDUCACIÓN FÍSICA Nº130 ""DELFO CABRERA""",La Costa,612300161,615,,,False,
+Educación Física (C.E.F.),18348,"CENTRO DE EDUCACIÓN FÍSICA Nº110 ""HUILCHES""",Patagones,607800762,613,,,False,
+Educación Física (C.E.F.),18359,"CENTRO DE EDUCACIÓN FÍSICA Nº127 ""ROBERTO BRADY""",San Antonio de Areco,609400081,551,,,False,
+Educación Física (C.E.F.),18370,CENTRO DE EDUCACIÓN FÍSICA Nº133,Magdalena,606400105,665,,,False,
+Educación Física (C.E.F.),18371,CENTRO DE EDUCACIÓN FÍSICA Nº136,Punta Indio,613400364,509,,,False,
+Educación Física (C.E.F.),18372,"CENTRO DE EDUCACIÓN FÍSICA Nº119 ""OSCAR ARIEL CARDOZO""",Balcarce,600900147,562,,,False,
+Educación Física (C.E.F.),18376,CENTRO DE EDUCACIÓN FÍSICA Nº121,Dolores,602900087,985,1.0,341,True,True
+Psicología Comunitaria y Pedagogía Social (C.E.C),18539,CENTRO EDUCATIVO COMPLEMENTARIO Nº2,Merlo,607102018,290,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),18784,"CENTRO EDUCATIVO COMPLEMENTARIO Nº2 ""LUIS FELIX SPERONI""",Guaminí,605100362,159,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),18917,"CENTRO EDUCATIVO COMPLEMENTARIO Nº 3 ""MARIANA LASAGA""",Arrecifes,601100399,180,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),18918,"CENTRO EDUCATIVO COMPLEMENTARIO Nº 3 ""DR. JUAN CARLOS SALABERRY""",Almirante Brown,600400118,189,1.0,65,True,True
+Psicología Comunitaria y Pedagogía Social (C.E.C),18929,"CENTRO EDUCATIVO COMPLEMENTARIO Nº1 ""PAULO FREIRE""",Adolfo Alsina,600200383,173,,,False,
+Educación Física (C.E.F.),18959,CENTRO DE EDUCACIÓN FÍSICA Nº34,Chascomús,"602700364,602700132",428,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),18979,"CENTRO EDUCATIVO COMPLEMENTARIO ""PIBELANDIA""",Lincoln,605900702,118,,,False,
+Educación Física (C.E.F.),19057,CENTRO DE EDUCACIÓN FÍSICA Nº139,Lobería,606000590,417,,,False,
+Educación Física (C.E.F.),19626,"CENTRO DE EDUCACIÓN FÍSICA Nº 132 ""V.I.D.A.S""",Adolfo Gonzales Chaves,605000082,410,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),20061,"CENTRO EDUCATIVO COMPLEMENTARIO Nº 1 ""RAÍCES Y ALAS""",General Las Heras,605700017,128,1.0,807,True,False
+Psicología Comunitaria y Pedagogía Social (C.E.C),22874,"CENTRO EDUCATIVO COMPLEMENTARIO Nº 5 ""MATILDE CATRIEL""",Olavarría,607701331,78,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),22926,"CENTRO EDUCATIVO COMPLEMENTARIO Nº 2 ""HÉROES DE MALVINAS""",Bahía Blanca,600801763,119,1.0,224,True,False
+Psicología Comunitaria y Pedagogía Social (C.E.C),22949,"CENTRO EDUCATIVO COMPLEMENTARIO Nº 1 ""SILVIA VENCHI""",Saavedra,609100528,53,,,False,
+Educación Física (C.E.F.),22950,"CENTRO DE EDUCACIÓN FÍSICA Nº 152 ""JUAN CARLOS ZABALA""",Avellaneda,600502606,137,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),22952,"CENTRO EDUCATIVO COMPLEMENTARIO Nº1 ""MADRE TERESA DE CALCUTA""",Villarino,611000935,45,,,False,
+Educación Física (C.E.F.),22965,CENTRO DE EDUCACIÓN FÍSICA Nº122,Mar Chiquita,606800116,621,,,False,
+Educación Física (C.E.F.),22966,"CENTRO DE EDUCACIÓN FÍSICA Nº120 ""ADALBERTO CESAR MINERVINI""",Capitán Sarmiento,612100053,232,1.0,94,True,True
+Psicología Comunitaria y Pedagogía Social (C.E.C),23015,"CENTRO EDUCATIVO COMPLEMENTARIO Nº 3 ""MARÍA ELENA WALSH""",Berazategui,611901327,62,,,False,
+Educación Física (C.E.F.),23046,CENTRO DE EDUCACIÓN FÍSICA Nº137,General Guido,603700246,309,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),23239,CENTRO EDUCATIVO COMPLEMENTARIO Nº 1 - EXTENSIÓN,Brandsen,601400479,81,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),23240,CENTRO EDUCATIVO COMPLEMENTARIO Nº 1 - EXTENSIÓN,Leandro N. Alem,605800514,87,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),23241,"CENTRO EDUCATIVO COMPLEMENTARIO Nº3 ""MARÍA NOEL SALVATIERRA""",Ramallo,608600048,124,1.0,309,True,False
+Psicología Comunitaria y Pedagogía Social (C.E.C),23310,"CENTRO EDUCATIVO COMPLEMENTARIO Nº 1 ""COLORADOS DEL MONTE, HUELLAS VIVAS""",Monte,607200404,89,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),23553,"CENTRO EDUCATIVO COMPLEMENTARIO Nº 1 ""CAMILA DE SAN JOSÉ ROLON""",Exaltación de la Cruz,603100075,161,,,False,
+Educación Física (C.E.F.),23554,CENTRO DE EDUCACIÓN FÍSICA Nº159,Exaltación de la Cruz,603100075,710,,,False,
+Educación Física (C.E.F.),23649,"CENTRO DE EDUCACIÓN FÍSICA Nº 157 ""MIGUEL ANGEL MANÓ""",General Paz,604100041,773,,,False,
+Educación Física (C.E.F.),23671,"CENTRO DE EDUCACIÓN FÍSICA Nº 150 ""JULIO DE LA FUENTE""",Villa Gesell,612500087,380,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),23680,"CENTRO EDUCATIVO COMPLEMENTARIO Nº2 ""MARÍA ELENA WALSH""",Daireaux,602000085,92,1.0,83,True,True
+Educación Física (C.E.F.),23684,CENTRO DE EDUCACIÓN FÍSICA Nº86 - EXTENSIÓN,Lomas de Zamora,606201839,84,1.0,1089,True,False
+Psicología Comunitaria y Pedagogía Social (C.E.C),23685,"CENTRO EDUCATIVO COMPLEMENTARIO Nº2 ""JUANA PAULA MANSO""",Leandro N. Alem,605800355,131,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),23798,"CENTRO EDUCATIVO COMPLEMENTARIO Nº1 ""GOLETA LUCINDA SUTTON""",Monte Hermoso,612600150,113,,,False,
+Educación Física (C.E.F.),23916,CENTRO DE EDUCACIÓN FÍSICA Nº106,General Pueyrredón,604300894,742,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),23936,"CENTRO EDUCATIVO COMPLEMENTARIO Nº 2 ""JORGE ALBERTO BARRACCHIA""",Trenque Lauquen,610600748,142,,,False,
+Educación Física (C.E.F.),23939,CENTRO DE EDUCACIÓN FÍSICA Nº64 - EXTENSIÓN,Tres Arroyos,610700197,366,,,False,
+Educación Física (C.E.F.),24074,CENTRO DE EDUCACIÓN FÍSICA Nº135,Monte Hermoso,612600075,963,,,False,
+Educación Física (C.E.F.),24148,CENTRO DE EDUCACIÓN FÍSICA Nº148,Tres Arroyos,610700150,217,1.0,149,True,True
+Educación Física (C.E.F.),24151,"CENTRO DE EDUCACIÓN FÍSICA Nº160 ""HÉROES DE MALVINAS""",Lanús,611100481,196,1.0,436,True,False
+Psicología Comunitaria y Pedagogía Social (C.E.C),24251,CENTRO EDUCATIVO COMPLEMENTARIO Nº2,Patagones,607800631,156,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),24307,"CENTRO EDUCATIVO COMPLEMENTARIO Nº 1 ""MARÍA ELENA WALSH""",General Juan Madariaga,604000058,104,2.0,143,True,False
+Educación Física (C.E.F.),24647,CENTRO DE EDUCACIÓN FÍSICA Nº165,Puán,608400103,413,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),24669,CENTRO EDUCATIVO COMPLEMENTARIO Nº3,Guaminí,605100423,115,,,False,
+Educación Física (C.E.F.),24687,CENTRO DE EDUCACIÓN FÍSICA Nº162,Tandil,610200325,348,1.0,187,True,True
+Educación Física (C.E.F.),24688,CENTRO DE EDUCACIÓN FÍSICA Nº162 - EXTENSIÓN,Tandil,610200339,34,,,False,
+Educación Física (C.E.F.),24691,CENTRO DE EDUCACIÓN FÍSICA Nº166,Patagones,607800053,378,2.0,423,True,False
+Educación Física (C.E.F.),24692,CENTRO DE EDUCACIÓN FÍSICA Nº166 - EXTENSIÓN I,Patagones,607800497,88,1.0,113,True,False
+Educación Física (C.E.F.),24693,CENTRO DE EDUCACIÓN FÍSICA Nº166 - EXTENSIÓN II,Patagones,607800216,30,,,False,
+Educación Física (C.E.F.),24695,CENTRO DE EDUCACIÓN FÍSICA Nº153,Coronel Dorrego,602300045,461,1.0,103,True,True
+Psicología Comunitaria y Pedagogía Social (C.E.C),24719,CENTRO EDUCATIVO COMPLEMENTARIO Nº2,Villarino,611000855,109,,,False,
+Educación Física (C.E.F.),24741,CENTRO DE EDUCACIÓN FÍSICA Nº149,Morón,610000398,233,1.0,13,True,True
+Educación Física (C.E.F.),24774,CENTRO DE EDUCACIÓN FÍSICA Nº140,Azul,600700210,755,1.0,119,True,True
+Educación Física (C.E.F.),24781,CENTRO DE EDUCACIÓN FÍSICA Nº156,Zárate,604700108,1007,2.0,547,True,True
+Educación Física (C.E.F.),24782,CENTRO DE EDUCACIÓN FÍSICA Nº168,Villarino,611000133,535,1.0,400,True,True
+Educación Física (C.E.F.),24797,CENTRO DE EDUCACIÓN FÍSICA Nº164,Presidente Perón,612900096,1115,1.0,1580,True,False
+Psicología Comunitaria y Pedagogía Social (C.E.C),24934,CENTRO EDUCATIVO MUNICIPAL Nº122,Avellaneda,600501493,92,1.0,102,True,False
+Psicología Comunitaria y Pedagogía Social (C.E.C),24935,CENTRO EDUCATIVO MUNICIPAL Nº123,Avellaneda,600501694,183,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),24936,CENTRO EDUCATIVO MUNICIPAL Nº124,Avellaneda,600501536,98,1.0,126,True,False
+Psicología Comunitaria y Pedagogía Social (C.E.C),24937,CENTRO EDUCATIVO MUNICIPAL Nº125,Avellaneda,600501706,100,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),24938,CENTRO EDUCATIVO MUNICIPAL Nº126,Avellaneda,600501710,106,1.0,19,True,True
+Psicología Comunitaria y Pedagogía Social (C.E.C),65413,"CENTRO EDUCATIVO COMPLEMENTARIO Nº2 ""LÍA LIDIA HERRÁN""",Adolfo Alsina,600200396,99,,,False,
+Educación Física (C.E.F.),65452,CENTRO DE EDUCACIÓN FÍSICA Nº163,Ituzaingó,613600139,420,1.0,673,True,False
+Educación Física (C.E.F.),65463,CENTRO DE EDUCACIÓN FÍSICA Nº144,Brandsen,"601400054,601400357",339,,,False,
+Educación Física (C.E.F.),65464,CENTRO DE EDUCACIÓN FÍSICA Nº177,Vicente López,610900209,129,2.0,172,True,False
+Educación Física (C.E.F.),65468,"CENTRO DE EDUCACIÓN FÍSICA Nº 170 ""MALVINAS ARGENTINAS""",Tordillo,610400022,384,,,False,
+Educación Física (C.E.F.),65470,CENTRO DE EDUCACIÓN FÍSICA Nº174,Castelli,602100057,232,,,False,
+Educación Física (C.E.F.),65471,CENTRO DE EDUCACIÓN FÍSICA Nº176,Lezama,613700053,310,,,False,
+Educación Física (C.E.F.),65494,CENTRO DE EDUCACIÓN FÍSICA Nº175,Hurlingham,613500452,441,2.0,482,True,False
+Educación Física (C.E.F.),65498,CENTRO DE EDUCACIÓN FÍSICA Nº151,Moreno,"607300281,607301834",592,,,False,
+Educación Física (C.E.F.),65509,"CENTRO DE EDUCACIÓN FÍSICA Nº181 ""JORGE SARAVI RIVIERE""",Malvinas Argentinas,613300226,643,2.0,904,True,False
+Educación Física (C.E.F.),65510,CENTRO DE EDUCACIÓN FÍSICA Nº107,Pila,608200036,474,,,False,
+Educación Física (C.E.F.),65511,"CENTRO DE EDUCACIÓN FÍSICA Nº180 ""MIGUEL ALTABÁS DE LAMA""",San Miguel,613100252,640,2.0,718,True,False
+Educación Física (C.E.F.),65513,CENTRO DE EDUCACIÓN FÍSICA Nº179,San Isidro,609600187,250,4.0,749,True,False
+Educación Física (C.E.F.),65535,CENTRO DE EDUCACIÓN FÍSICA Nº183 “OSVALDO MAZZOLI”,San Fernando,"609500078,609501134",386,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),65550,CENTRO EDUCATIVO COMPLEMENTARIO Nº4,Guaminí,605100370,51,,,False,
+Educación Física (C.E.F.),65584,"CENTRO DE EDUCACIÓN FÍSICA Nº172 ""JAGÜEL DEL MEDIO""",La Costa,612300628,365,1.0,177,True,True
+Educación Física (C.E.F.),65588,"CENTRO DE EDUCACIÓN FÍSICA Nº171 ""ENTRE MÉDANOS""",La Costa,612300103,262,2.0,973,True,False
+Educación Física (C.E.F.),65658,CENTRO DE EDUCACIÓN FÍSICA Nº131,Cañuelas,601600104,341,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),65697,"CENTRO EDUCATIVO COMPLEMENTARIO Nº2 ""JUANA AZURDUY""",Coronel Suárez,602500991,122,,,False,
+Educación Física (C.E.F.),65698,CENTRO DE EDUCACIÓN FÍSICA Nº189,Saavedra,609100516,364,,,False,
+Educación Física (C.E.F.),65699,CENTRO DE EDUCACIÓN FÍSICA Nº186,Florencio Varela,603200266,565,1.0,1088,True,False
+Educación Física (C.E.F.),65708,"CENTRO DE EDUCACIÓN FÍSICA Nº187 ""RENÉ FAVALORO""",La Matanza,606901777,664,1.0,1435,True,False
+Educación Física (C.E.F.),65709,CENTRO DE EDUCACIÓN FÍSICA Nº188,Lomas de Zamora,606200679,435,3.0,684,True,False
+Educación Física (C.E.F.),65710,CENTRO DE EDUCACIÓN FÍSICA Nº167,Coronel Suárez,602500904,201,,,False,
+Educación Física (C.E.F.),65711,CENTRO DE EDUCACIÓN FÍSICA Nº161,Ezeiza,613000600,247,2.0,875,True,False
+Educación Física (C.E.F.),65712,CENTRO DE EDUCACIÓN FÍSICA Nº191,Almirante Brown,600400380,557,2.0,1522,True,False
+Educación Física (C.E.F.),65720,CENTRO DE EDUCACIÓN FÍSICA Nº193,Mercedes,607000175,170,1.0,292,True,False
+Educación Física (C.E.F.),65725,CENTRO DE EDUCACIÓN FÍSICA N°178,La Matanza,606900397,323,3.0,614,True,False
+Educación Física (C.E.F.),65726,"CENTRO DE EDUCACIÓN FÍSICA Nº155 ""BRAIAN TOLEDO""",La Matanza,606901765,683,2.0,831,True,False
+Educación Física (C.E.F.),65728,CENTRO DE EDUCACIÓN FÍSICA Nº190,Quilmes,608501983,553,1.0,184,True,True
+Educación Física (C.E.F.),65729,CENTRO DE EDUCACIÓN FÍSICA Nº158,Bolívar,601200149,278,,,False,
+Educación Física (C.E.F.),65760,CENTRO DE EDUCACIÓN FÍSICA Nº185,Villarino,611000903,525,,,False,
+Educación Física (C.E.F.),65816,CENTRO DE EDUCACIÓN FÍSICA Nº4 - EXTENSIÓN I,Tres Arroyos,610700166,99,1.0,69,True,True
+Educación Física (C.E.F.),65817,CENTRO DE EDUCACIÓN FÍSICA Nº113 - EXTENSIÓN I,Tres Arroyos,610700178,104,2.0,129,True,False
+Educación Física (C.E.F.),65818,CENTRO DE EDUCACIÓN FÍSICA Nº148 - EXTENSIÓN I,Tres Arroyos,610700184,84,2.0,104,True,False
+Psicología Comunitaria y Pedagogía Social (C.E.C),102450,"CENTRO EDUCATIVO COMPLEMENTARIO Nº2 ""ROSARIO VERA PEÑALOZA""",Chivilcoy,602800797,82,,,False,
+Psicología Comunitaria y Pedagogía Social (C.E.C),102977,CENTRO EDUCATIVO COMPLEMENTARIO Nº3,Patagones,607800683,110,,,False,
+Educación Física (C.E.F.),103098,CENTRO DE EDUCACIÓN FÍSICA Nº192,Florencio Varela,603200284,765,1.0,798,True,False
+Educación Física (C.E.F.),103171,CENTRO DE EDUCACIÓN FÍSICA Nº194,Berazategui,611901130,524,2.0,1211,True,False
+Psicología Comunitaria y Pedagogía Social (C.E.C),103179,"CENTRO EDUCATIVO COMPLEMENTARIO Nº 2 ""ESTACIÓN OLIVERA""",Luján,606301112,87,,,False,
+Educación Física (C.E.F.),103223,CENTRO DE EDUCACIÓN FÍSICA Nº195,Tornquist,610500240,179,1.0,117,True,True
+Educación Física (C.E.F.),103252,CENTRO DE EDUCACIÓN FÍSICA Nº196,Merlo,607101944,254,1.0,433,True,False
+Educación Física (C.E.F.),103282,CENTRO DE EDUCACIÓN FÍSICA Nº198,25 de Mayo,610800951,230,,,False,
+Educación Física (C.E.F.),103309,CENTRO DE EDUCACIÓN FÍSICA Nº197,La Matanza,606900313,629,3.0,707,True,False
